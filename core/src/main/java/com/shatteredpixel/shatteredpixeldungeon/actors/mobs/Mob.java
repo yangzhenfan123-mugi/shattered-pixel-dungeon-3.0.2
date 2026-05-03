@@ -89,6 +89,7 @@ import com.shatteredpixel.shatteredpixeldungeon.plants.Swiftthistle;
 import com.shatteredpixel.shatteredpixeldungeon.scenes.GameScene;
 import com.shatteredpixel.shatteredpixeldungeon.sprites.CharSprite;
 import com.shatteredpixel.shatteredpixeldungeon.utils.GLog;
+import com.shatteredpixel.shatteredpixeldungeon.utils.MobLogger;
 import com.watabou.noosa.audio.Sample;
 import com.watabou.utils.Bundle;
 import com.watabou.utils.PathFinder;
@@ -99,6 +100,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.HashSet;
+
 
 public abstract class Mob extends Char {
 
@@ -114,7 +116,22 @@ public abstract class Mob extends Char {
 	public AiState FLEEING		= new Fleeing();
 	public AiState PASSIVE		= new Passive();
 	public AiState state = SLEEPING;
-	
+
+	// 在 Mob.java 中添加此方法
+	protected void updateState(AiState newState) {
+		// 只有当状态真正发生改变时才记录，避免重复日志 (Requirement 5.9)
+		if (this.state != newState) {
+			String oldStateName = (this.state != null) ? this.state.getClass().getSimpleName() : "NULL";
+			String newStateName = (newState != null) ? newState.getClass().getSimpleName() : "NULL";
+
+			// 执行实际的状态赋值
+			this.state = newState;
+
+			// 调用日志系统 (Requirement 5.5)
+			MobLogger.log(this, "STATE_TRANSITION", oldStateName + " -> " + newStateName);
+		}
+	}
+
 	public Class<? extends CharSprite> spriteClass;
 	
 	protected int target = -1;
@@ -138,6 +155,7 @@ public abstract class Mob extends Char {
 			float percent = HP / (float) HT;
 			HT = Math.round(HT * AscensionChallenge.statModifier(this));
 			HP = Math.round(HT * percent);
+			MobLogger.log(this, "SPAWN", "Spawned at pos: " + pos);
 			firstAdded = false;
 		}
 	}
@@ -237,10 +255,16 @@ public abstract class Mob extends Char {
 		}
 
 		if (buff(Terror.class) != null || buff(Dread.class) != null ){
-			state = FLEEING;
+			updateState(FLEEING);
 		}
-		
+
+		Char oldEnemy = enemy;
 		enemy = chooseEnemy();
+
+		if (oldEnemy != enemy) {
+			String targetName = (enemy != null) ? enemy.name() : "NONE";
+			MobLogger.log(this, "TARGET_ASSIGN", "New target: " + targetName);
+		}
 		
 		boolean enemyInFOV = enemy != null && enemy.isAlive() && fieldOfView[enemy.pos] && enemy.invisible <= 0;
 
@@ -438,11 +462,11 @@ public abstract class Mob extends Char {
 	public boolean add( Buff buff ) {
 		if (super.add( buff )) {
 			if (buff instanceof Amok || buff instanceof AllyBuff) {
-				state = HUNTING;
+				updateState(HUNTING);
 			} else if (buff instanceof Terror || buff instanceof Dread) {
-				state = FLEEING;
+				updateState(FLEEING);
 			} else if (buff instanceof Sleep) {
-				state = SLEEPING;
+				updateState(SLEEPING);
 				postpone(Sleep.SWS);
 			}
 			return true;
@@ -457,9 +481,9 @@ public abstract class Mob extends Char {
 					|| (buff instanceof Dread && buff(Terror.class) == null))) {
 				if (enemySeen) {
 					sprite.showStatus(CharSprite.WARNING, Messages.get(this, "rage"));
-					state = HUNTING;
+					updateState(HUNTING);
 				} else {
-					state = WANDERING;
+					updateState(WANDERING);
 				}
 			}
 			return true;
@@ -1040,6 +1064,7 @@ public abstract class Mob extends Char {
 	}
 	
 	public void notice() {
+		MobLogger.log(this, "ALERT", "Mob became alerted.");
 		sprite.showAlert();
 	}
 	
@@ -1121,11 +1146,11 @@ public abstract class Mob extends Char {
 			if (enemyInFOV) {
 				enemySeen = true;
 				notice();
-				state = HUNTING;
+				updateState(HUNTING);
 				target = enemy.pos;
 			} else {
 				notice();
-				state = WANDERING;
+				updateState(WANDERING);
 				target = Dungeon.level.randomDestination( Mob.this );
 			}
 
@@ -1161,10 +1186,10 @@ public abstract class Mob extends Char {
 		
 		protected boolean noticeEnemy(){
 			enemySeen = true;
-			
+
 			notice();
 			alerted = true;
-			state = HUNTING;
+			updateState(HUNTING);
 			target = enemy.pos;
 			
 			if (alignment == Alignment.ENEMY && Dungeon.isChallenged( Challenges.SWARM_INTELLIGENCE )) {
@@ -1246,7 +1271,7 @@ public abstract class Mob extends Char {
 					target = enemy.pos;
 				} else if (enemy == null) {
 					sprite.showLost();
-					state = WANDERING;
+					updateState(WANDERING);
 					target = ((Mob.Wandering)WANDERING).randomDestination();
 					spend( TICK );
 					return true;
@@ -1330,9 +1355,9 @@ public abstract class Mob extends Char {
 			if (buff( Terror.class ) == null && buff( Dread.class ) == null) {
 				if (enemySeen) {
 					sprite.showStatus(CharSprite.WARNING, Messages.get(Mob.class, "rage"));
-					state = HUNTING;
+					updateState(HUNTING);
 				} else {
-					state = WANDERING;
+					updateState(WANDERING);
 				}
 			}
 		}
@@ -1427,7 +1452,7 @@ public abstract class Mob extends Char {
 				}
 
 				level.mobs.add(ally);
-				ally.state = ally.WANDERING;
+				ally.updateState(ally.WANDERING);
 				
 				if (!candidatePositions.isEmpty()){
 					ally.pos = candidatePositions.remove(0);
