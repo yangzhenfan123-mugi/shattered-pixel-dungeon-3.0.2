@@ -1694,3 +1694,956 @@
 [2026-05-09 21:28:14.693] [TICK:6.00] [啮齿小鼠:16] [TARGET_ASSIGN] New target: 女猎手
 [2026-05-09 21:28:14.694] [TICK:6.00] [啮齿小鼠:16] [ALERT] Mob became alerted.
 [2026-05-09 21:28:14.694] [TICK:6.00] [啮齿小鼠:16] [STATE_TRANSITION] Sleeping -> Hunting
+[2026-05-10 12:20:50.659] [TICK:19.00] [啮齿小鼠:20] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:20:50.660] [TICK:19.00] [啮齿小鼠:20] [ALERT] Mob became alerted.
+[2026-05-10 12:20:50.661] [TICK:19.00] [啮齿小鼠:20] [STATE_TRANSITION] Sleeping -> Hunting
+[2026-05-10 12:21:08.791] [TICK:43.00] [豺狼巡查:27] [SPAWN] Spawned at pos: 125
+[2026-05-10 12:21:09.573] [TICK:46.00] [下水道巨蛇:18] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:21:18.280] [TICK:55.00] [豺狼巡查:27] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:21:18.380] [TICK:56.00] [豺狼巡查:27] [ALERT] Mob became alerted.
+[2026-05-10 12:21:18.381] [TICK:56.00] [豺狼巡查:27] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 12:21:39.414] [TICK:91.00] [豺狼巡查:21] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:21:48.458] [TICK:93.00] [下水道巨蛇:30] [SPAWN] Spawned at pos: 298
+[2026-05-10 12:22:03.822] [TICK:126.25] [怨灵:31] [SPAWN] Spawned at pos: 491
+[2026-05-10 12:22:03.823] [TICK:126.25] [怨灵:32] [SPAWN] Spawned at pos: 518
+[2026-05-10 12:22:03.824] [TICK:126.25] [怨灵:33] [SPAWN] Spawned at pos: 520
+[2026-05-10 12:22:03.824] [TICK:126.25] [怨灵:34] [SPAWN] Spawned at pos: 547
+[2026-05-10 12:22:06.725] [TICK:128.25] [怨灵:32] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:22:07.028] [TICK:128.25] [怨灵:34] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:22:07.029] [TICK:128.25] [怨灵:31] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:22:07.328] [TICK:128.25] [怨灵:33] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:22:12.619] [TICK:143.00] [豺狼巡查:35] [SPAWN] Spawned at pos: 153
+[2026-05-10 12:22:12.619] [TICK:143.25] [怨灵:34] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:22:12.620] [TICK:143.25] [怨灵:34] [ALERT] Mob became alerted.
+[2026-05-10 12:22:12.620] [TICK:143.25] [怨灵:34] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 12:22:13.955] [TICK:145.25] [怨灵:31] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:22:14.055] [TICK:146.25] [怨灵:33] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:22:15.132] [TICK:148.25] [怨灵:33] [ALERT] Mob became alerted.
+[2026-05-10 12:22:15.133] [TICK:148.25] [怨灵:33] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 12:22:15.232] [TICK:149.25] [怨灵:31] [ALERT] Mob became alerted.
+[2026-05-10 12:22:15.233] [TICK:149.25] [怨灵:31] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 12:22:25.275] [TICK:168.00] [豺狼巡查:35] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:22:25.276] [TICK:168.00] [豺狼巡查:35] [ALERT] Mob became alerted.
+[2026-05-10 12:22:25.276] [TICK:168.00] [豺狼巡查:35] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 12:22:41.242] [TICK:193.00] [啮齿小鼠:36] [SPAWN] Spawned at pos: 270
+[2026-05-10 12:22:45.879] [TICK:214.00] [啮齿小鼠:36] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:23:11.574] [TICK:243.00] [豺狼巡查:37] [SPAWN] Spawned at pos: 713
+[2026-05-10 12:23:13.507] [TICK:248.00] [白化老鼠:22] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:23:16.287] [TICK:255.00] [豺狼巡查:37] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:23:16.774] [TICK:256.00] [豺狼巡查:37] [ALERT] Mob became alerted.
+[2026-05-10 12:23:16.774] [TICK:256.00] [豺狼巡查:37] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 12:23:26.680] [TICK:271.00] [白化老鼠:22] [ALERT] Mob became alerted.
+[2026-05-10 12:23:26.681] [TICK:271.00] [白化老鼠:22] [STATE_TRANSITION] Sleeping -> Hunting
+[2026-05-10 12:23:58.632] [TICK:293.00] [豺狼巡查:38] [SPAWN] Spawned at pos: 705
+[2026-05-10 12:24:23.846] [TICK:0.00] [豺狼巡查:39] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:24:42.686] [TICK:24.00] [下水道巨蛇:40] [SPAWN] Spawned at pos: 657
+[2026-05-10 12:24:47.626] [TICK:47.00] [啮齿小鼠:17] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:24:47.627] [TICK:47.00] [啮齿小鼠:17] [ALERT] Mob became alerted.
+[2026-05-10 12:24:47.627] [TICK:47.00] [啮齿小鼠:17] [STATE_TRANSITION] Sleeping -> Hunting
+[2026-05-10 12:25:07.734] [TICK:74.00] [啮齿小鼠:42] [SPAWN] Spawned at pos: 525
+[2026-05-10 12:25:19.877] [TICK:94.00] [啮齿小鼠:42] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:25:19.878] [TICK:94.00] [啮齿小鼠:42] [ALERT] Mob became alerted.
+[2026-05-10 12:25:19.878] [TICK:94.00] [啮齿小鼠:42] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 12:25:26.979] [TICK:0.00] [豺狼巡查:43] [SPAWN] Spawned at pos: 903
+[2026-05-10 12:25:26.979] [TICK:0.00] [活化石像:44] [SPAWN] Spawned at pos: 1095
+[2026-05-10 12:25:26.979] [TICK:0.00] [下水道巨蛇:45] [SPAWN] Spawned at pos: 952
+[2026-05-10 12:25:26.980] [TICK:0.00] [豺狼巡查:46] [SPAWN] Spawned at pos: 1498
+[2026-05-10 12:25:26.980] [TICK:0.00] [下水道螃蟹:47] [SPAWN] Spawned at pos: 1374
+[2026-05-10 12:25:26.980] [TICK:0.00] [蝇群:48] [SPAWN] Spawned at pos: 1534
+[2026-05-10 12:25:26.980] [TICK:0.00] [啮齿小鼠:49] [SPAWN] Spawned at pos: 1007
+[2026-05-10 12:25:26.980] [TICK:0.00] [豺狼巡查:50] [SPAWN] Spawned at pos: 822
+[2026-05-10 12:25:32.514] [TICK:0.00] [豺狼巡查:50] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:25:37.984] [TICK:5.00] [豺狼巡查:43] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:25:38.962] [TICK:6.00] [豺狼巡查:43] [ALERT] Mob became alerted.
+[2026-05-10 12:25:38.962] [TICK:6.00] [豺狼巡查:43] [STATE_TRANSITION] Sleeping -> Hunting
+[2026-05-10 12:25:45.941] [TICK:18.00] [下水道巨蛇:45] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:25:45.942] [TICK:18.00] [下水道巨蛇:45] [ALERT] Mob became alerted.
+[2026-05-10 12:25:45.942] [TICK:18.00] [下水道巨蛇:45] [STATE_TRANSITION] Sleeping -> Hunting
+[2026-05-10 12:25:50.561] [TICK:24.50] [绵羊:53] [SPAWN] Spawned at pos: 822
+[2026-05-10 12:25:50.561] [TICK:24.50] [绵羊:54] [SPAWN] Spawned at pos: 825
+[2026-05-10 12:25:50.561] [TICK:24.50] [绵羊:55] [SPAWN] Spawned at pos: 826
+[2026-05-10 12:25:50.562] [TICK:24.50] [绵羊:56] [SPAWN] Spawned at pos: 864
+[2026-05-10 12:25:50.562] [TICK:24.50] [绵羊:57] [SPAWN] Spawned at pos: 865
+[2026-05-10 12:25:50.562] [TICK:24.50] [绵羊:58] [SPAWN] Spawned at pos: 866
+[2026-05-10 12:25:50.563] [TICK:24.50] [绵羊:59] [SPAWN] Spawned at pos: 902
+[2026-05-10 12:25:50.563] [TICK:24.50] [绵羊:60] [SPAWN] Spawned at pos: 903
+[2026-05-10 12:25:50.563] [TICK:24.50] [绵羊:61] [SPAWN] Spawned at pos: 905
+[2026-05-10 12:25:50.563] [TICK:24.50] [绵羊:62] [SPAWN] Spawned at pos: 942
+[2026-05-10 12:25:50.563] [TICK:24.50] [绵羊:63] [SPAWN] Spawned at pos: 943
+[2026-05-10 12:25:58.952] [TICK:50.00] [啮齿小鼠:64] [SPAWN] Spawned at pos: 1376
+[2026-05-10 12:26:07.635] [TICK:64.50] [下水道螃蟹:47] [ALERT] Mob became alerted.
+[2026-05-10 12:26:07.636] [TICK:64.50] [蝇群:48] [ALERT] Mob became alerted.
+[2026-05-10 12:26:07.636] [TICK:64.50] [啮齿小鼠:49] [ALERT] Mob became alerted.
+[2026-05-10 12:26:07.636] [TICK:64.50] [啮齿小鼠:64] [ALERT] Mob became alerted.
+[2026-05-10 12:26:07.636] [TICK:64.50] [豺狼巡查:46] [ALERT] Mob became alerted.
+[2026-05-10 12:26:12.108] [TICK:69.00] [啮齿小鼠:64] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:26:12.109] [TICK:69.00] [啮齿小鼠:64] [ALERT] Mob became alerted.
+[2026-05-10 12:26:12.109] [TICK:69.00] [啮齿小鼠:64] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 12:26:14.176] [TICK:72.00] [下水道螃蟹:47] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:26:14.177] [TICK:72.00] [下水道螃蟹:47] [ALERT] Mob became alerted.
+[2026-05-10 12:26:14.177] [TICK:72.00] [下水道螃蟹:47] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 12:26:21.586] [TICK:78.50] [蝇群:70] [SPAWN] Spawned at pos: 1049
+[2026-05-10 12:26:22.506] [TICK:79.50] [蝇群:72] [SPAWN] Spawned at pos: 1007
+[2026-05-10 12:26:22.655] [TICK:79.50] [蝇群:70] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:26:23.165] [TICK:80.50] [蝇群:74] [SPAWN] Spawned at pos: 1008
+[2026-05-10 12:26:23.319] [TICK:80.50] [蝇群:72] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:26:23.739] [TICK:81.50] [蝇群:74] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:26:23.740] [TICK:82.00] [豺狼巡查:46] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:26:23.740] [TICK:82.00] [豺狼巡查:46] [ALERT] Mob became alerted.
+[2026-05-10 12:26:23.740] [TICK:82.00] [豺狼巡查:46] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 12:26:39.870] [TICK:0.00] [蝇群:79] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:26:40.070] [TICK:0.00] [下水道螃蟹:80] [SPAWN] Spawned at pos: 913
+[2026-05-10 12:26:45.237] [TICK:7.50] [蝇群:70] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:26:45.740] [TICK:8.50] [蝇群:70] [ALERT] Mob became alerted.
+[2026-05-10 12:26:45.740] [TICK:8.50] [蝇群:70] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 12:26:46.196] [TICK:9.50] [下水道螃蟹:80] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:26:46.400] [TICK:10.00] [下水道螃蟹:80] [ALERT] Mob became alerted.
+[2026-05-10 12:26:46.400] [TICK:10.00] [下水道螃蟹:80] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 12:26:51.696] [TICK:0.00] [蝇群:81] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:27:21.411] [TICK:27.00] [蝇群:79] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:27:21.412] [TICK:27.00] [蝇群:79] [ALERT] Mob became alerted.
+[2026-05-10 12:27:21.412] [TICK:27.00] [蝇群:79] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 12:27:21.614] [TICK:27.00] [下水道螃蟹:80] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:27:22.128] [TICK:27.50] [蝇群:70] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:27:22.128] [TICK:27.50] [蝇群:70] [ALERT] Mob became alerted.
+[2026-05-10 12:27:22.129] [TICK:27.50] [蝇群:70] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 12:27:22.129] [TICK:27.50] [下水道螃蟹:80] [ALERT] Mob became alerted.
+[2026-05-10 12:27:22.129] [TICK:27.50] [下水道螃蟹:80] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 12:27:24.571] [TICK:29.50] [蝇群:83] [SPAWN] Spawned at pos: 856
+[2026-05-10 12:27:24.721] [TICK:29.50] [蝇群:72] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:27:25.301] [TICK:30.50] [蝇群:83] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:27:26.228] [TICK:32.50] [蝇群:72] [TARGET_ASSIGN] New target: NONE
+[2026-05-10 12:27:33.149] [TICK:34.00] [豺狼巡查:85] [SPAWN] Spawned at pos: 1619
+[2026-05-10 12:27:39.998] [TICK:36.50] [蝇群:74] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:27:42.038] [TICK:37.50] [蝇群:74] [ALERT] Mob became alerted.
+[2026-05-10 12:27:42.038] [TICK:37.50] [蝇群:74] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 12:27:45.185] [TICK:40.50] [蝇群:86] [SPAWN] Spawned at pos: 852
+[2026-05-10 12:27:46.556] [TICK:41.50] [蝇群:86] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:27:47.293] [TICK:42.00] [蝇群:88] [SPAWN] Spawned at pos: 856
+[2026-05-10 12:27:48.302] [TICK:43.00] [蝇群:81] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:27:48.303] [TICK:43.00] [蝇群:81] [ALERT] Mob became alerted.
+[2026-05-10 12:27:48.303] [TICK:43.00] [蝇群:81] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 12:27:48.303] [TICK:43.00] [蝇群:88] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:27:50.945] [TICK:45.00] [蝇群:90] [SPAWN] Spawned at pos: 780
+[2026-05-10 12:27:51.728] [TICK:46.00] [蝇群:92] [SPAWN] Spawned at pos: 859
+[2026-05-10 12:27:51.878] [TICK:46.00] [蝇群:90] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:27:52.298] [TICK:47.00] [蝇群:94] [SPAWN] Spawned at pos: 819
+[2026-05-10 12:27:52.452] [TICK:47.00] [蝇群:92] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:27:52.832] [TICK:48.00] [蝇群:94] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:27:53.255] [TICK:49.00] [蝇群:96] [SPAWN] Spawned at pos: 858
+[2026-05-10 12:27:53.802] [TICK:50.00] [蝇群:96] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:27:54.185] [TICK:51.00] [蝇群:98] [SPAWN] Spawned at pos: 856
+[2026-05-10 12:27:55.102] [TICK:52.00] [蝇群:98] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:27:55.652] [TICK:53.00] [豺狼巡查:85] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:27:57.019] [TICK:56.00] [蝇群:100] [SPAWN] Spawned at pos: 856
+[2026-05-10 12:27:57.172] [TICK:56.00] [豺狼巡查:85] [TARGET_ASSIGN] New target: NONE
+[2026-05-10 12:27:57.642] [TICK:57.00] [蝇群:100] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:27:59.029] [TICK:60.50] [蝇群:72] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:27:59.030] [TICK:60.50] [蝇群:72] [ALERT] Mob became alerted.
+[2026-05-10 12:27:59.030] [TICK:60.50] [蝇群:72] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 12:28:08.366] [TICK:74.00] [蝇群:102] [SPAWN] Spawned at pos: 856
+[2026-05-10 12:28:12.109] [TICK:77.00] [豺狼巡查:85] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:28:16.283] [TICK:84.00] [豺狼巡查:104] [SPAWN] Spawned at pos: 1617
+[2026-05-10 12:29:01.848] [TICK:125.00] [镜像:105] [SPAWN] Spawned at pos: 0
+[2026-05-10 12:29:01.849] [TICK:125.00] [镜像:107] [SPAWN] Spawned at pos: 0
+[2026-05-10 12:29:02.344] [TICK:125.00] [镜像:107] [STATE_TRANSITION] Hunting -> Wandering
+[2026-05-10 12:29:02.344] [TICK:125.00] [镜像:105] [STATE_TRANSITION] Hunting -> Wandering
+[2026-05-10 12:29:48.229] [TICK:134.00] [蝇群:111] [SPAWN] Spawned at pos: 1533
+[2026-05-10 12:30:18.110] [TICK:146.00] [镜像:107] [TARGET_ASSIGN] New target: 蝇群
+[2026-05-10 12:30:18.111] [TICK:146.00] [镜像:107] [ALERT] Mob became alerted.
+[2026-05-10 12:30:18.111] [TICK:146.00] [镜像:107] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 12:30:18.627] [TICK:147.00] [蝇群:114] [SPAWN] Spawned at pos: 1098
+[2026-05-10 12:30:18.824] [TICK:148.00] [蝇群:114] [TARGET_ASSIGN] New target: 镜像
+[2026-05-10 12:30:18.997] [TICK:149.00] [蝇群:114] [TARGET_ASSIGN] New target: NONE
+[2026-05-10 12:30:18.997] [TICK:149.00] [蝇群:114] [STATE_TRANSITION] Hunting -> Wandering
+[2026-05-10 12:30:18.997] [TICK:149.00] [蝇群:111] [TARGET_ASSIGN] New target: NONE
+[2026-05-10 12:30:18.997] [TICK:149.00] [蝇群:111] [STATE_TRANSITION] Hunting -> Wandering
+[2026-05-10 12:30:19.563] [TICK:152.00] [蝇群:111] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:30:20.217] [TICK:154.00] [镜像:105] [TARGET_ASSIGN] New target: 蝇群
+[2026-05-10 12:30:21.390] [TICK:155.00] [蝇群:116] [SPAWN] Spawned at pos: 859
+[2026-05-10 12:30:21.894] [TICK:156.00] [蝇群:118] [SPAWN] Spawned at pos: 819
+[2026-05-10 12:30:22.046] [TICK:156.00] [蝇群:116] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:30:22.424] [TICK:157.00] [镜像:105] [ALERT] Mob became alerted.
+[2026-05-10 12:30:22.425] [TICK:157.00] [镜像:105] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 12:30:22.425] [TICK:157.00] [蝇群:118] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:30:24.170] [TICK:160.00] [蝇群:120] [SPAWN] Spawned at pos: 1378
+[2026-05-10 12:30:25.600] [TICK:161.00] [蝇群:120] [STATE_TRANSITION] Hunting -> Wandering
+[2026-05-10 12:30:25.601] [TICK:161.00] [蝇群:114] [TARGET_ASSIGN] New target: NONE
+[2026-05-10 12:30:25.601] [TICK:161.00] [蝇群:114] [STATE_TRANSITION] Hunting -> Wandering
+[2026-05-10 12:30:27.710] [TICK:163.00] [蝇群:122] [SPAWN] Spawned at pos: 776
+[2026-05-10 12:30:28.734] [TICK:164.00] [蝇群:122] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:30:32.307] [TICK:172.00] [蝇群:124] [SPAWN] Spawned at pos: 1018
+[2026-05-10 12:30:32.994] [TICK:173.00] [蝇群:124] [STATE_TRANSITION] Hunting -> Wandering
+[2026-05-10 12:30:34.454] [TICK:177.00] [蝇群:124] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:30:34.454] [TICK:177.00] [蝇群:124] [ALERT] Mob became alerted.
+[2026-05-10 12:30:34.454] [TICK:177.00] [蝇群:124] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 12:30:38.104] [TICK:184.00] [豺狼巡查:126] [SPAWN] Spawned at pos: 1050
+[2026-05-10 12:32:40.076] [TICK:32.00] [下水道巨蛇:128] [SPAWN] Spawned at pos: 969
+[2026-05-10 12:32:41.231] [TICK:40.00] [下水道巨蛇:128] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:32:55.215] [TICK:82.00] [下水道螃蟹:129] [SPAWN] Spawned at pos: 1574
+[2026-05-10 12:32:56.855] [TICK:90.00] [蝇群:120] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:32:58.404] [TICK:92.00] [蝇群:130] [SPAWN] Spawned at pos: 865
+[2026-05-10 12:32:59.241] [TICK:93.00] [蝇群:130] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:33:25.329] [TICK:0.00] [下水道螃蟹:133] [SPAWN] Spawned at pos: 399
+[2026-05-10 12:33:25.330] [TICK:0.00] [史莱姆:134] [SPAWN] Spawned at pos: 693
+[2026-05-10 12:33:25.330] [TICK:0.00] [悲伤幽灵:135] [SPAWN] Spawned at pos: 933
+[2026-05-10 12:33:25.330] [TICK:0.00] [下水道螃蟹:136] [SPAWN] Spawned at pos: 946
+[2026-05-10 12:33:25.330] [TICK:0.00] [下水道螃蟹:137] [SPAWN] Spawned at pos: 100
+[2026-05-10 12:33:25.330] [TICK:0.00] [史莱姆:138] [SPAWN] Spawned at pos: 1123
+[2026-05-10 12:33:25.330] [TICK:0.00] [史莱姆:139] [SPAWN] Spawned at pos: 629
+[2026-05-10 12:33:25.330] [TICK:0.00] [蝇群:140] [SPAWN] Spawned at pos: 737
+[2026-05-10 12:33:25.330] [TICK:0.00] [豺狼巡查:141] [SPAWN] Spawned at pos: 331
+[2026-05-10 12:33:31.496] [TICK:2.00] [下水道螃蟹:136] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:33:59.694] [TICK:36.00] [史莱姆:138] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:33:59.694] [TICK:36.00] [史莱姆:138] [ALERT] Mob became alerted.
+[2026-05-10 12:33:59.694] [TICK:36.00] [史莱姆:138] [STATE_TRANSITION] Sleeping -> Hunting
+[2026-05-10 12:34:09.005] [TICK:47.00] [巨钳螃蟹:156] [SPAWN] Spawned at pos: 732
+[2026-05-10 12:34:14.065] [TICK:50.00] [下水道螃蟹:157] [SPAWN] Spawned at pos: 101
+[2026-05-10 12:34:27.127] [TICK:87.50] [下水道螃蟹:157] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:34:27.128] [TICK:87.50] [下水道螃蟹:157] [ALERT] Mob became alerted.
+[2026-05-10 12:34:27.128] [TICK:87.50] [下水道螃蟹:157] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 12:34:38.111] [TICK:99.00] [巨钳螃蟹:156] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:34:39.804] [TICK:100.00] [史莱姆:165] [SPAWN] Spawned at pos: 135
+[2026-05-10 12:34:58.166] [TICK:115.00] [巨钳螃蟹:156] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:34:58.166] [TICK:115.00] [巨钳螃蟹:156] [ALERT] Mob became alerted.
+[2026-05-10 12:34:58.166] [TICK:115.00] [巨钳螃蟹:156] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 12:35:08.026] [TICK:124.00] [巨钳螃蟹:156] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:35:08.026] [TICK:124.00] [巨钳螃蟹:156] [ALERT] Mob became alerted.
+[2026-05-10 12:35:08.026] [TICK:124.00] [巨钳螃蟹:156] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 12:35:44.750] [TICK:150.00] [蝇群:182] [SPAWN] Spawned at pos: 174
+[2026-05-10 12:36:04.665] [TICK:166.00] [蝇群:182] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:36:04.665] [TICK:166.00] [蝇群:182] [ALERT] Mob became alerted.
+[2026-05-10 12:36:04.666] [TICK:166.00] [蝇群:182] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 12:36:12.271] [TICK:174.50] [蝇群:188] [SPAWN] Spawned at pos: 831
+[2026-05-10 12:36:13.474] [TICK:175.50] [蝇群:188] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:36:24.614] [TICK:183.00] [蝇群:193] [SPAWN] Spawned at pos: 831
+[2026-05-10 12:36:25.381] [TICK:184.00] [蝇群:193] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:36:36.623] [TICK:200.00] [豺狼巡查:202] [SPAWN] Spawned at pos: 173
+[2026-05-10 12:37:28.547] [TICK:250.00] [史莱姆:203] [SPAWN] Spawned at pos: 1042
+[2026-05-10 12:37:32.473] [TICK:263.00] [史莱姆:203] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:37:32.473] [TICK:263.00] [史莱姆:203] [ALERT] Mob became alerted.
+[2026-05-10 12:37:32.473] [TICK:263.00] [史莱姆:203] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 12:38:00.380] [TICK:305.00] [豺狼巡查:202] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:38:00.381] [TICK:305.00] [豺狼巡查:202] [ALERT] Mob became alerted.
+[2026-05-10 12:38:00.381] [TICK:305.00] [豺狼巡查:202] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 12:38:45.026] [TICK:350.00] [下水道螃蟹:249] [SPAWN] Spawned at pos: 471
+[2026-05-10 12:39:00.609] [TICK:383.00] [下水道螃蟹:133] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:39:10.256] [TICK:400.00] [豺狼巡查:256] [SPAWN] Spawned at pos: 1160
+[2026-05-10 12:39:10.831] [TICK:401.00] [史莱姆:134] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:39:10.831] [TICK:401.00] [蝇群:140] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:39:12.800] [TICK:403.00] [蝇群:140] [ALERT] Mob became alerted.
+[2026-05-10 12:39:12.801] [TICK:403.00] [蝇群:140] [STATE_TRANSITION] Sleeping -> Hunting
+[2026-05-10 12:39:16.573] [TICK:408.50] [蝇群:258] [SPAWN] Spawned at pos: 545
+[2026-05-10 12:39:17.150] [TICK:409.50] [蝇群:261] [SPAWN] Spawned at pos: 470
+[2026-05-10 12:39:17.299] [TICK:409.50] [蝇群:258] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:39:17.714] [TICK:410.50] [蝇群:261] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:39:23.007] [TICK:415.50] [蝇群:266] [SPAWN] Spawned at pos: 469
+[2026-05-10 12:39:25.193] [TICK:416.50] [蝇群:266] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:39:26.703] [TICK:417.50] [蝇群:271] [SPAWN] Spawned at pos: 509
+[2026-05-10 12:39:28.554] [TICK:418.50] [蝇群:273] [SPAWN] Spawned at pos: 472
+[2026-05-10 12:39:28.907] [TICK:418.50] [蝇群:271] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:39:30.187] [TICK:419.50] [蝇群:276] [SPAWN] Spawned at pos: 471
+[2026-05-10 12:39:30.537] [TICK:419.50] [蝇群:273] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:39:32.204] [TICK:420.50] [蝇群:276] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:39:46.057] [TICK:449.00] [豺狼巡查:256] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:39:46.158] [TICK:450.00] [豺狼巡查:256] [TARGET_ASSIGN] New target: NONE
+[2026-05-10 12:39:46.158] [TICK:450.00] [史莱姆:280] [SPAWN] Spawned at pos: 1084
+[2026-05-10 12:39:46.794] [TICK:452.00] [豺狼巡查:256] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:39:46.894] [TICK:453.00] [豺狼巡查:256] [TARGET_ASSIGN] New target: NONE
+[2026-05-10 12:40:12.779] [TICK:500.00] [下水道螃蟹:282] [SPAWN] Spawned at pos: 1095
+[2026-05-10 12:40:14.578] [TICK:510.50] [下水道螃蟹:282] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:40:14.578] [TICK:510.50] [下水道螃蟹:282] [ALERT] Mob became alerted.
+[2026-05-10 12:40:14.579] [TICK:510.50] [下水道螃蟹:282] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 12:40:27.885] [TICK:524.00] [豺狼巡查:141] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:40:28.699] [TICK:527.00] [下水道螃蟹:137] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:40:28.699] [TICK:527.00] [下水道螃蟹:137] [ALERT] Mob became alerted.
+[2026-05-10 12:40:28.700] [TICK:527.00] [下水道螃蟹:137] [STATE_TRANSITION] Sleeping -> Hunting
+[2026-05-10 12:40:37.579] [TICK:542.00] [史莱姆:280] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:40:42.766] [TICK:550.00] [蝇群:294] [SPAWN] Spawned at pos: 1096
+[2026-05-10 12:40:50.166] [TICK:572.00] [蝇群:295] [SPAWN] Spawned at pos: 402
+[2026-05-10 12:40:50.663] [TICK:573.00] [蝇群:298] [SPAWN] Spawned at pos: 326
+[2026-05-10 12:40:50.813] [TICK:573.00] [蝇群:295] [STATE_TRANSITION] Hunting -> Wandering
+[2026-05-10 12:40:51.413] [TICK:574.00] [蝇群:298] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:40:54.276] [TICK:577.00] [蝇群:303] [SPAWN] Spawned at pos: 288
+[2026-05-10 12:40:56.314] [TICK:578.00] [蝇群:303] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:40:59.977] [TICK:584.00] [蝇群:295] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:41:00.597] [TICK:585.00] [蝇群:313] [SPAWN] Spawned at pos: 401
+[2026-05-10 12:41:01.276] [TICK:586.00] [蝇群:313] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:41:08.980] [TICK:600.00] [下水道螃蟹:317] [SPAWN] Spawned at pos: 1059
+[2026-05-10 12:41:29.021] [TICK:650.00] [豺狼巡查:318] [SPAWN] Spawned at pos: 1156
+[2026-05-10 12:42:17.786] [TICK:0.00] [粘咕:321] [SPAWN] Spawned at pos: 592
+[2026-05-10 12:42:17.787] [TICK:0.00] [鼠王:322] [SPAWN] Spawned at pos: 853
+[2026-05-10 12:42:34.710] [TICK:34.00] [粘咕:321] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:44:16.904] [TICK:0.00] [啮齿小鼠:4] [SPAWN] Spawned at pos: 765
+[2026-05-10 12:44:16.904] [TICK:0.00] [下水道巨蛇:5] [SPAWN] Spawned at pos: 617
+[2026-05-10 12:44:16.904] [TICK:0.00] [啮齿小鼠:6] [SPAWN] Spawned at pos: 499
+[2026-05-10 12:44:16.904] [TICK:0.00] [下水道巨蛇:7] [SPAWN] Spawned at pos: 480
+[2026-05-10 12:44:16.905] [TICK:0.00] [啮齿小鼠:8] [SPAWN] Spawned at pos: 185
+[2026-05-10 12:44:16.905] [TICK:0.00] [啮齿小鼠:9] [SPAWN] Spawned at pos: 182
+[2026-05-10 12:44:16.905] [TICK:0.00] [白化老鼠:10] [SPAWN] Spawned at pos: 807
+[2026-05-10 12:44:16.905] [TICK:0.00] [啮齿小鼠:11] [SPAWN] Spawned at pos: 601
+[2026-05-10 12:44:20.701] [TICK:8.00] [下水道巨蛇:5] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 12:44:20.701] [TICK:8.00] [下水道巨蛇:5] [ALERT] Mob became alerted.
+[2026-05-10 12:44:20.701] [TICK:8.00] [下水道巨蛇:5] [STATE_TRANSITION] Sleeping -> Hunting
+[2026-05-10 12:53:47.143] [TICK:3.00] [白化老鼠:10] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:07:47.640] [TICK:0.00] [啮齿小鼠:4] [SPAWN] Spawned at pos: 908
+[2026-05-10 13:07:47.640] [TICK:0.00] [下水道巨蛇:5] [SPAWN] Spawned at pos: 1077
+[2026-05-10 13:07:47.641] [TICK:0.00] [啮齿小鼠:6] [SPAWN] Spawned at pos: 78
+[2026-05-10 13:07:47.641] [TICK:0.00] [啮齿小鼠:7] [SPAWN] Spawned at pos: 230
+[2026-05-10 13:07:47.641] [TICK:0.00] [啮齿小鼠:8] [SPAWN] Spawned at pos: 137
+[2026-05-10 13:07:47.641] [TICK:0.00] [下水道巨蛇:9] [SPAWN] Spawned at pos: 1002
+[2026-05-10 13:07:47.642] [TICK:0.00] [啮齿小鼠:10] [SPAWN] Spawned at pos: 777
+[2026-05-10 13:07:47.642] [TICK:0.00] [啮齿小鼠:11] [SPAWN] Spawned at pos: 592
+[2026-05-10 13:07:54.086] [TICK:15.00] [下水道巨蛇:5] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:08:01.906] [TICK:30.00] [下水道巨蛇:9] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:08:07.757] [TICK:36.00] [啮齿小鼠:4] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:08:07.757] [TICK:36.00] [啮齿小鼠:4] [ALERT] Mob became alerted.
+[2026-05-10 13:08:07.758] [TICK:36.00] [啮齿小鼠:4] [STATE_TRANSITION] Sleeping -> Hunting
+[2026-05-10 13:08:18.210] [TICK:43.00] [啮齿小鼠:10] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:08:23.247] [TICK:54.00] [啮齿小鼠:11] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:08:50.894] [TICK:115.00] [啮齿小鼠:6] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:08:50.995] [TICK:116.00] [啮齿小鼠:7] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:08:50.995] [TICK:116.00] [啮齿小鼠:7] [ALERT] Mob became alerted.
+[2026-05-10 13:08:50.996] [TICK:116.00] [啮齿小鼠:7] [STATE_TRANSITION] Sleeping -> Hunting
+[2026-05-10 13:08:50.996] [TICK:116.00] [啮齿小鼠:8] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:08:52.111] [TICK:117.00] [啮齿小鼠:6] [ALERT] Mob became alerted.
+[2026-05-10 13:08:52.111] [TICK:117.00] [啮齿小鼠:6] [STATE_TRANSITION] Sleeping -> Hunting
+[2026-05-10 13:08:52.111] [TICK:117.00] [啮齿小鼠:8] [ALERT] Mob became alerted.
+[2026-05-10 13:08:52.112] [TICK:117.00] [啮齿小鼠:8] [STATE_TRANSITION] Sleeping -> Hunting
+[2026-05-10 13:09:36.437] [TICK:0.00] [啮齿小鼠:17] [SPAWN] Spawned at pos: 1007
+[2026-05-10 13:09:36.437] [TICK:0.00] [上锁的宝箱:18] [SPAWN] Spawned at pos: 731
+[2026-05-10 13:09:36.437] [TICK:0.00] [啮齿小鼠:19] [SPAWN] Spawned at pos: 623
+[2026-05-10 13:09:36.437] [TICK:0.00] [豺狼巡查:20] [SPAWN] Spawned at pos: 765
+[2026-05-10 13:09:36.438] [TICK:0.00] [豺狼巡查:21] [SPAWN] Spawned at pos: 499
+[2026-05-10 13:09:36.438] [TICK:0.00] [豺狼巡查:22] [SPAWN] Spawned at pos: 1073
+[2026-05-10 13:09:36.438] [TICK:0.00] [下水道巨蛇:23] [SPAWN] Spawned at pos: 733
+[2026-05-10 13:09:38.516] [TICK:1.00] [豺狼巡查:21] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:09:42.551] [TICK:7.00] [绵羊:26] [SPAWN] Spawned at pos: 327
+[2026-05-10 13:09:42.551] [TICK:7.00] [绵羊:27] [SPAWN] Spawned at pos: 328
+[2026-05-10 13:09:42.551] [TICK:7.00] [绵羊:28] [SPAWN] Spawned at pos: 329
+[2026-05-10 13:09:42.552] [TICK:7.00] [绵羊:29] [SPAWN] Spawned at pos: 396
+[2026-05-10 13:09:42.552] [TICK:7.00] [绵羊:30] [SPAWN] Spawned at pos: 398
+[2026-05-10 13:09:42.552] [TICK:7.00] [绵羊:31] [SPAWN] Spawned at pos: 399
+[2026-05-10 13:09:42.552] [TICK:7.00] [绵羊:32] [SPAWN] Spawned at pos: 430
+[2026-05-10 13:09:42.553] [TICK:7.00] [绵羊:33] [SPAWN] Spawned at pos: 431
+[2026-05-10 13:09:42.553] [TICK:7.00] [绵羊:34] [SPAWN] Spawned at pos: 432
+[2026-05-10 13:09:42.553] [TICK:7.00] [绵羊:35] [SPAWN] Spawned at pos: 433
+[2026-05-10 13:09:42.554] [TICK:7.00] [绵羊:36] [SPAWN] Spawned at pos: 464
+[2026-05-10 13:09:42.554] [TICK:7.00] [绵羊:37] [SPAWN] Spawned at pos: 465
+[2026-05-10 13:09:51.369] [TICK:24.00] [下水道巨蛇:23] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:09:51.370] [TICK:24.00] [豺狼巡查:20] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:10:11.890] [TICK:47.00] [啮齿小鼠:19] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:10:15.007] [TICK:50.00] [啮齿小鼠:38] [SPAWN] Spawned at pos: 653
+[2026-05-10 13:10:23.827] [TICK:58.00] [啮齿小鼠:38] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:10:28.950] [TICK:0.00] [啮齿小鼠:4] [SPAWN] Spawned at pos: 943
+[2026-05-10 13:10:28.951] [TICK:0.00] [啮齿小鼠:5] [SPAWN] Spawned at pos: 1075
+[2026-05-10 13:10:28.951] [TICK:0.00] [水晶宝箱:6] [SPAWN] Spawned at pos: 1209
+[2026-05-10 13:10:28.951] [TICK:0.00] [啮齿小鼠:7] [SPAWN] Spawned at pos: 1072
+[2026-05-10 13:10:28.951] [TICK:0.00] [啮齿小鼠:8] [SPAWN] Spawned at pos: 884
+[2026-05-10 13:10:28.952] [TICK:0.00] [啮齿小鼠:9] [SPAWN] Spawned at pos: 491
+[2026-05-10 13:10:28.952] [TICK:0.00] [下水道巨蛇:10] [SPAWN] Spawned at pos: 299
+[2026-05-10 13:10:28.952] [TICK:0.00] [下水道巨蛇:11] [SPAWN] Spawned at pos: 249
+[2026-05-10 13:10:28.952] [TICK:0.00] [啮齿小鼠:12] [SPAWN] Spawned at pos: 1520
+[2026-05-10 13:10:30.317] [TICK:2.00] [下水道巨蛇:10] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:10:30.318] [TICK:2.00] [下水道巨蛇:10] [ALERT] Mob became alerted.
+[2026-05-10 13:10:30.318] [TICK:2.00] [下水道巨蛇:10] [STATE_TRANSITION] Sleeping -> Hunting
+[2026-05-10 13:10:30.318] [TICK:2.00] [下水道巨蛇:11] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:10:30.318] [TICK:2.00] [下水道巨蛇:11] [ALERT] Mob became alerted.
+[2026-05-10 13:10:30.319] [TICK:2.00] [下水道巨蛇:11] [STATE_TRANSITION] Sleeping -> Hunting
+[2026-05-10 13:10:39.162] [TICK:24.00] [怨灵:14] [SPAWN] Spawned at pos: 106
+[2026-05-10 13:10:43.311] [TICK:35.00] [啮齿小鼠:9] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:10:49.705] [TICK:51.00] [啮齿小鼠:7] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:10:49.705] [TICK:51.00] [啮齿小鼠:7] [ALERT] Mob became alerted.
+[2026-05-10 13:10:49.706] [TICK:51.00] [啮齿小鼠:7] [STATE_TRANSITION] Sleeping -> Hunting
+[2026-05-10 13:11:57.149] [TICK:86.00] [啮齿小鼠:5] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:12:02.523] [TICK:95.00] [啮齿小鼠:8] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:12:13.420] [TICK:126.00] [啮齿小鼠:12] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:12:24.571] [TICK:152.00] [啮齿小鼠:4] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:12:30.117] [TICK:156.00] [啮齿小鼠:4] [ALERT] Mob became alerted.
+[2026-05-10 13:12:30.117] [TICK:156.00] [啮齿小鼠:4] [STATE_TRANSITION] Sleeping -> Hunting
+[2026-05-10 13:13:12.653] [TICK:0.00] [啮齿小鼠:18] [SPAWN] Spawned at pos: 1019
+[2026-05-10 13:13:12.653] [TICK:0.00] [豺狼巡查:19] [SPAWN] Spawned at pos: 1126
+[2026-05-10 13:13:12.653] [TICK:0.00] [豺狼巡查:20] [SPAWN] Spawned at pos: 681
+[2026-05-10 13:13:12.653] [TICK:0.00] [豺狼巡查:21] [SPAWN] Spawned at pos: 1264
+[2026-05-10 13:13:12.653] [TICK:0.00] [啮齿小鼠:22] [SPAWN] Spawned at pos: 1004
+[2026-05-10 13:13:12.654] [TICK:0.00] [下水道巨蛇:23] [SPAWN] Spawned at pos: 464
+[2026-05-10 13:13:12.654] [TICK:0.00] [啮齿小鼠:24] [SPAWN] Spawned at pos: 425
+[2026-05-10 13:13:19.272] [TICK:15.00] [豺狼巡查:20] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:13:19.272] [TICK:15.00] [豺狼巡查:20] [ALERT] Mob became alerted.
+[2026-05-10 13:13:19.273] [TICK:15.00] [豺狼巡查:20] [STATE_TRANSITION] Sleeping -> Hunting
+[2026-05-10 13:13:19.273] [TICK:15.00] [啮齿小鼠:22] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:13:22.756] [TICK:18.00] [啮齿小鼠:22] [ALERT] Mob became alerted.
+[2026-05-10 13:13:22.756] [TICK:18.00] [啮齿小鼠:22] [STATE_TRANSITION] Sleeping -> Hunting
+[2026-05-10 13:13:38.863] [TICK:61.00] [豺狼巡查:21] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:13:43.500] [TICK:68.00] [豺狼巡查:19] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:13:54.890] [TICK:100.00] [下水道巨蛇:28] [SPAWN] Spawned at pos: 1004
+[2026-05-10 13:13:57.656] [TICK:115.00] [啮齿小鼠:18] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:14:00.193] [TICK:116.00] [啮齿小鼠:18] [ALERT] Mob became alerted.
+[2026-05-10 13:14:00.193] [TICK:116.00] [啮齿小鼠:18] [STATE_TRANSITION] Sleeping -> Hunting
+[2026-05-10 13:14:07.091] [TICK:139.00] [下水道巨蛇:23] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:14:07.687] [TICK:141.00] [下水道巨蛇:23] [ALERT] Mob became alerted.
+[2026-05-10 13:14:07.688] [TICK:141.00] [下水道巨蛇:23] [STATE_TRANSITION] Sleeping -> Hunting
+[2026-05-10 13:14:11.224] [TICK:147.00] [啮齿小鼠:24] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:14:13.331] [TICK:150.00] [豺狼巡查:29] [SPAWN] Spawned at pos: 1006
+[2026-05-10 13:14:33.944] [TICK:198.00] [豺狼巡查:29] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:14:34.477] [TICK:199.00] [豺狼巡查:29] [TARGET_ASSIGN] New target: NONE
+[2026-05-10 13:14:35.228] [TICK:200.00] [啮齿小鼠:32] [SPAWN] Spawned at pos: 377
+[2026-05-10 13:14:49.049] [TICK:250.00] [豺狼巡查:34] [SPAWN] Spawned at pos: 836
+[2026-05-10 13:15:08.628] [TICK:300.00] [啮齿小鼠:35] [SPAWN] Spawned at pos: 1006
+[2026-05-10 13:15:09.528] [TICK:309.00] [啮齿小鼠:32] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:15:09.529] [TICK:309.00] [啮齿小鼠:32] [ALERT] Mob became alerted.
+[2026-05-10 13:15:09.529] [TICK:309.00] [啮齿小鼠:32] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 13:15:13.898] [TICK:320.00] [豺狼巡查:34] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:15:13.900] [TICK:320.00] [豺狼巡查:34] [ALERT] Mob became alerted.
+[2026-05-10 13:15:13.900] [TICK:320.00] [豺狼巡查:34] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 13:15:21.813] [TICK:350.00] [下水道巨蛇:36] [SPAWN] Spawned at pos: 693
+[2026-05-10 13:15:48.664] [TICK:0.00] [下水道螃蟹:37] [SPAWN] Spawned at pos: 606
+[2026-05-10 13:15:48.664] [TICK:0.00] [啮齿小鼠:38] [SPAWN] Spawned at pos: 129
+[2026-05-10 13:15:48.664] [TICK:0.00] [巨型食人鱼:39] [SPAWN] Spawned at pos: 883
+[2026-05-10 13:15:48.664] [TICK:0.00] [豺狼巡查:40] [SPAWN] Spawned at pos: 87
+[2026-05-10 13:15:48.664] [TICK:0.00] [下水道螃蟹:41] [SPAWN] Spawned at pos: 553
+[2026-05-10 13:15:48.666] [TICK:0.00] [巨型食人鱼:42] [SPAWN] Spawned at pos: 1018
+[2026-05-10 13:15:48.666] [TICK:0.00] [巨型食人鱼:43] [SPAWN] Spawned at pos: 988
+[2026-05-10 13:15:48.666] [TICK:0.00] [下水道巨蛇:44] [SPAWN] Spawned at pos: 345
+[2026-05-10 13:15:48.666] [TICK:0.00] [蝇群:45] [SPAWN] Spawned at pos: 609
+[2026-05-10 13:15:48.666] [TICK:0.00] [豺狼巡查:46] [SPAWN] Spawned at pos: 89
+[2026-05-10 13:15:48.666] [TICK:0.00] [悲伤幽灵:47] [SPAWN] Spawned at pos: 159
+[2026-05-10 13:15:48.667] [TICK:0.00] [豺狼巡查:48] [SPAWN] Spawned at pos: 689
+[2026-05-10 13:15:57.190] [TICK:19.00] [下水道螃蟹:41] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:15:57.190] [TICK:19.00] [下水道螃蟹:41] [ALERT] Mob became alerted.
+[2026-05-10 13:15:57.191] [TICK:19.00] [下水道螃蟹:41] [STATE_TRANSITION] Sleeping -> Hunting
+[2026-05-10 13:16:43.568] [TICK:50.00] [蝇群:52] [SPAWN] Spawned at pos: 391
+[2026-05-10 13:16:48.272] [TICK:63.00] [蝇群:52] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:16:49.728] [TICK:64.00] [蝇群:52] [TARGET_ASSIGN] New target: NONE
+[2026-05-10 13:16:53.245] [TICK:71.00] [蝇群:53] [SPAWN] Spawned at pos: 412
+[2026-05-10 13:16:54.088] [TICK:72.00] [蝇群:55] [SPAWN] Spawned at pos: 482
+[2026-05-10 13:16:54.241] [TICK:72.00] [蝇群:53] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:16:54.575] [TICK:73.00] [蝇群:57] [SPAWN] Spawned at pos: 518
+[2026-05-10 13:16:54.725] [TICK:73.00] [蝇群:55] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:16:55.258] [TICK:74.00] [蝇群:57] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:16:58.989] [TICK:78.00] [蝇群:59] [SPAWN] Spawned at pos: 518
+[2026-05-10 13:17:00.239] [TICK:79.00] [蝇群:59] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:17:01.732] [TICK:81.00] [蝇群:61] [SPAWN] Spawned at pos: 449
+[2026-05-10 13:17:02.982] [TICK:82.00] [蝇群:61] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:17:03.399] [TICK:83.00] [蝇群:63] [SPAWN] Spawned at pos: 519
+[2026-05-10 13:17:04.476] [TICK:84.00] [蝇群:63] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:17:05.805] [TICK:86.00] [蝇群:65] [SPAWN] Spawned at pos: 450
+[2026-05-10 13:17:06.489] [TICK:87.00] [蝇群:65] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:17:12.133] [TICK:94.00] [啮齿小鼠:38] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:17:12.233] [TICK:95.00] [啮齿小鼠:38] [ALERT] Mob became alerted.
+[2026-05-10 13:17:12.233] [TICK:95.00] [啮齿小鼠:38] [STATE_TRANSITION] Sleeping -> Hunting
+[2026-05-10 13:17:16.158] [TICK:99.00] [豺狼巡查:48] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:17:17.872] [TICK:100.00] [豺狼巡查:67] [SPAWN] Spawned at pos: 495
+[2026-05-10 13:17:20.827] [TICK:109.00] [下水道螃蟹:37] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:17:24.872] [TICK:115.00] [蝇群:68] [SPAWN] Spawned at pos: 610
+[2026-05-10 13:17:25.603] [TICK:116.00] [蝇群:70] [SPAWN] Spawned at pos: 539
+[2026-05-10 13:17:25.756] [TICK:116.00] [蝇群:68] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:17:26.186] [TICK:117.00] [蝇群:72] [SPAWN] Spawned at pos: 574
+[2026-05-10 13:17:26.339] [TICK:117.00] [蝇群:70] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:17:26.982] [TICK:118.00] [蝇群:74] [SPAWN] Spawned at pos: 539
+[2026-05-10 13:17:27.133] [TICK:118.00] [蝇群:72] [STATE_TRANSITION] Hunting -> Wandering
+[2026-05-10 13:17:27.613] [TICK:119.00] [蝇群:76] [SPAWN] Spawned at pos: 504
+[2026-05-10 13:17:27.763] [TICK:119.00] [蝇群:74] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:17:28.152] [TICK:120.00] [蝇群:76] [STATE_TRANSITION] Hunting -> Wandering
+[2026-05-10 13:17:28.153] [TICK:120.00] [蝇群:72] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:17:28.656] [TICK:121.00] [蝇群:78] [SPAWN] Spawned at pos: 469
+[2026-05-10 13:17:29.213] [TICK:121.00] [蝇群:72] [ALERT] Mob became alerted.
+[2026-05-10 13:17:29.213] [TICK:121.00] [蝇群:72] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 13:17:30.213] [TICK:122.00] [蝇群:78] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:17:30.850] [TICK:123.00] [蝇群:80] [SPAWN] Spawned at pos: 470
+[2026-05-10 13:17:32.830] [TICK:124.00] [蝇群:76] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:17:32.830] [TICK:124.00] [蝇群:76] [ALERT] Mob became alerted.
+[2026-05-10 13:17:32.830] [TICK:124.00] [蝇群:76] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 13:17:32.831] [TICK:124.00] [蝇群:80] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:17:35.286] [TICK:126.00] [蝇群:82] [SPAWN] Spawned at pos: 433
+[2026-05-10 13:17:36.680] [TICK:127.00] [蝇群:82] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:17:37.390] [TICK:128.00] [蝇群:84] [SPAWN] Spawned at pos: 433
+[2026-05-10 13:17:39.000] [TICK:129.00] [蝇群:84] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:17:43.670] [TICK:135.00] [下水道螃蟹:37] [ALERT] Mob became alerted.
+[2026-05-10 13:17:43.671] [TICK:135.00] [下水道螃蟹:37] [STATE_TRANSITION] Sleeping -> Hunting
+[2026-05-10 13:17:45.000] [TICK:136.50] [下水道螃蟹:37] [ALERT] Mob became alerted.
+[2026-05-10 13:17:50.508] [TICK:146.00] [豺狼诡术师:88] [SPAWN] Spawned at pos: 520
+[2026-05-10 13:17:57.327] [TICK:150.00] [豺狼巡查:89] [SPAWN] Spawned at pos: 654
+[2026-05-10 13:18:16.405] [TICK:194.00] [豺狼诡术师:88] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:18:16.505] [TICK:195.00] [豺狼诡术师:88] [TARGET_ASSIGN] New target: NONE
+[2026-05-10 13:18:17.004] [TICK:200.00] [啮齿小鼠:90] [SPAWN] Spawned at pos: 234
+[2026-05-10 13:18:20.568] [TICK:209.00] [巨型食人鱼:42] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:18:20.569] [TICK:209.00] [巨型食人鱼:43] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:18:20.569] [TICK:209.00] [巨型食人鱼:39] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:18:24.521] [TICK:216.00] [豺狼诡术师:88] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:18:24.521] [TICK:216.00] [豺狼诡术师:88] [ALERT] Mob became alerted.
+[2026-05-10 13:18:24.521] [TICK:216.00] [豺狼诡术师:88] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 13:18:28.224] [TICK:223.00] [啮齿小鼠:90] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:18:28.225] [TICK:223.00] [啮齿小鼠:90] [ALERT] Mob became alerted.
+[2026-05-10 13:18:28.225] [TICK:223.00] [啮齿小鼠:90] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 13:18:29.678] [TICK:225.00] [巨型食人鱼:42] [ALERT] Mob became alerted.
+[2026-05-10 13:18:29.679] [TICK:225.00] [巨型食人鱼:42] [STATE_TRANSITION] Sleeping -> Hunting
+[2026-05-10 13:18:29.778] [TICK:226.00] [巨型食人鱼:43] [ALERT] Mob became alerted.
+[2026-05-10 13:18:29.778] [TICK:226.00] [巨型食人鱼:43] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 13:18:43.479] [TICK:235.50] [巨型食人鱼:42] [ALERT] Mob became alerted.
+[2026-05-10 13:18:43.480] [TICK:235.50] [巨型食人鱼:42] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 13:18:47.176] [TICK:240.50] [巨型食人鱼:42] [ALERT] Mob became alerted.
+[2026-05-10 13:18:47.176] [TICK:240.50] [巨型食人鱼:42] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 13:18:53.075] [TICK:250.00] [下水道巨蛇:91] [SPAWN] Spawned at pos: 413
+[2026-05-10 13:19:09.388] [TICK:275.00] [豺狼诡术师:88] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:19:09.389] [TICK:275.00] [豺狼诡术师:88] [ALERT] Mob became alerted.
+[2026-05-10 13:19:09.389] [TICK:275.00] [豺狼诡术师:88] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 13:19:11.454] [TICK:277.00] [豺狼诡术师:88] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:19:11.454] [TICK:277.00] [豺狼诡术师:88] [ALERT] Mob became alerted.
+[2026-05-10 13:19:11.454] [TICK:277.00] [豺狼诡术师:88] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 13:19:44.667] [TICK:300.00] [豺狼巡查:93] [SPAWN] Spawned at pos: 555
+[2026-05-10 13:19:48.371] [TICK:310.00] [豺狼巡查:93] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:19:48.470] [TICK:311.00] [豺狼巡查:93] [ALERT] Mob became alerted.
+[2026-05-10 13:19:48.470] [TICK:311.00] [豺狼巡查:93] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 13:19:58.521] [TICK:335.00] [豺狼巡查:46] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:21:03.027] [TICK:350.00] [豺狼巡查:94] [SPAWN] Spawned at pos: 391
+[2026-05-10 13:21:03.953] [TICK:353.00] [豺狼巡查:40] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:22:46.606] [TICK:400.00] [下水道螃蟹:98] [SPAWN] Spawned at pos: 581
+[2026-05-10 13:23:45.934] [TICK:450.00] [下水道巨蛇:99] [SPAWN] Spawned at pos: 498
+[2026-05-10 13:29:33.608] [TICK:21.00] [蝇群:100] [SPAWN] Spawned at pos: 638
+[2026-05-10 13:29:42.125] [TICK:45.00] [蝇群:100] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:29:42.125] [TICK:45.00] [蝇群:100] [ALERT] Mob became alerted.
+[2026-05-10 13:29:42.125] [TICK:45.00] [蝇群:100] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 13:29:43.658] [TICK:46.60] [蝇群:101] [SPAWN] Spawned at pos: 503
+[2026-05-10 13:29:44.551] [TICK:47.60] [蝇群:103] [SPAWN] Spawned at pos: 539
+[2026-05-10 13:29:44.705] [TICK:47.60] [蝇群:101] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:29:45.065] [TICK:48.60] [蝇群:105] [SPAWN] Spawned at pos: 435
+[2026-05-10 13:29:45.219] [TICK:48.60] [蝇群:103] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:29:45.618] [TICK:49.60] [蝇群:105] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:29:47.214] [TICK:52.60] [蝇群:107] [SPAWN] Spawned at pos: 400
+[2026-05-10 13:29:48.594] [TICK:53.60] [蝇群:107] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:29:50.789] [TICK:56.60] [蝇群:109] [SPAWN] Spawned at pos: 400
+[2026-05-10 13:29:52.195] [TICK:57.60] [蝇群:109] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:29:55.860] [TICK:0.00] [下水道螃蟹:111] [SPAWN] Spawned at pos: 635
+[2026-05-10 13:29:55.860] [TICK:0.00] [蝇群:112] [SPAWN] Spawned at pos: 838
+[2026-05-10 13:29:55.860] [TICK:0.00] [下水道螃蟹:113] [SPAWN] Spawned at pos: 549
+[2026-05-10 13:29:55.861] [TICK:0.00] [下水道螃蟹:114] [SPAWN] Spawned at pos: 473
+[2026-05-10 13:29:55.861] [TICK:0.00] [宝箱:115] [SPAWN] Spawned at pos: 1132
+[2026-05-10 13:29:55.861] [TICK:0.00] [豺狼巡查:116] [SPAWN] Spawned at pos: 860
+[2026-05-10 13:29:55.861] [TICK:0.00] [下水道螃蟹:117] [SPAWN] Spawned at pos: 292
+[2026-05-10 13:29:55.861] [TICK:0.00] [史莱姆:118] [SPAWN] Spawned at pos: 1095
+[2026-05-10 13:29:55.861] [TICK:0.00] [史莱姆:119] [SPAWN] Spawned at pos: 872
+[2026-05-10 13:29:55.861] [TICK:0.00] [宝箱:120] [SPAWN] Spawned at pos: 327
+[2026-05-10 13:30:01.759] [TICK:15.00] [下水道螃蟹:117] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:30:01.760] [TICK:15.00] [下水道螃蟹:113] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:30:04.879] [TICK:16.00] [下水道螃蟹:117] [ALERT] Mob became alerted.
+[2026-05-10 13:30:04.879] [TICK:16.00] [下水道螃蟹:117] [STATE_TRANSITION] Sleeping -> Hunting
+[2026-05-10 13:30:41.627] [TICK:50.00] [史莱姆:125] [SPAWN] Spawned at pos: 598
+[2026-05-10 13:31:21.738] [TICK:83.00] [史莱姆:119] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:31:21.738] [TICK:83.00] [蝇群:112] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:31:22.895] [TICK:83.73] [蝇群:126] [SPAWN] Spawned at pos: 839
+[2026-05-10 13:31:23.667] [TICK:84.73] [蝇群:129] [SPAWN] Spawned at pos: 800
+[2026-05-10 13:31:23.817] [TICK:84.73] [蝇群:126] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:31:24.284] [TICK:85.73] [蝇群:129] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:31:24.285] [TICK:86.00] [史莱姆:119] [ALERT] Mob became alerted.
+[2026-05-10 13:31:24.285] [TICK:86.00] [史莱姆:119] [STATE_TRANSITION] Sleeping -> Hunting
+[2026-05-10 13:31:24.891] [TICK:86.73] [蝇群:131] [SPAWN] Spawned at pos: 802
+[2026-05-10 13:31:26.244] [TICK:87.73] [蝇群:131] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:31:33.629] [TICK:100.00] [蝇群:137] [SPAWN] Spawned at pos: 1206
+[2026-05-10 13:31:34.896] [TICK:102.00] [史莱姆:118] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:31:35.965] [TICK:104.00] [史莱姆:118] [ALERT] Mob became alerted.
+[2026-05-10 13:31:35.966] [TICK:104.00] [史莱姆:118] [STATE_TRANSITION] Sleeping -> Hunting
+[2026-05-10 13:31:37.581] [TICK:108.00] [蝇群:137] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:31:37.581] [TICK:108.00] [蝇群:137] [ALERT] Mob became alerted.
+[2026-05-10 13:31:37.581] [TICK:108.00] [蝇群:137] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 13:31:43.112] [TICK:119.33] [蝇群:141] [SPAWN] Spawned at pos: 765
+[2026-05-10 13:31:44.235] [TICK:120.33] [蝇群:141] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:31:46.505] [TICK:124.21] [蝇群:144] [SPAWN] Spawned at pos: 765
+[2026-05-10 13:31:46.862] [TICK:125.21] [蝇群:144] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:32:42.241] [TICK:150.00] [史莱姆:148] [SPAWN] Spawned at pos: 511
+[2026-05-10 13:33:33.443] [TICK:200.00] [豺狼巡查:155] [SPAWN] Spawned at pos: 781
+[2026-05-10 13:33:40.009] [TICK:222.00] [豺狼巡查:116] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:33:48.899] [TICK:241.00] [下水道螃蟹:111] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:34:00.710] [TICK:250.00] [史莱姆:158] [SPAWN] Spawned at pos: 363
+[2026-05-10 13:34:04.153] [TICK:264.00] [史莱姆:125] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:34:12.130] [TICK:279.65] [豺狼巡查:155] [STATE_TRANSITION] Wandering -> Fleeing
+[2026-05-10 13:34:12.626] [TICK:280.00] [豺狼巡查:155] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:34:18.570] [TICK:299.65] [豺狼巡查:155] [STATE_TRANSITION] Fleeing -> Wandering
+[2026-05-10 13:34:19.170] [TICK:300.00] [豺狼巡查:155] [TARGET_ASSIGN] New target: NONE
+[2026-05-10 13:34:19.170] [TICK:300.00] [下水道螃蟹:161] [SPAWN] Spawned at pos: 949
+[2026-05-10 13:34:25.981] [TICK:319.00] [下水道螃蟹:161] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:34:25.981] [TICK:319.00] [下水道螃蟹:161] [ALERT] Mob became alerted.
+[2026-05-10 13:34:25.981] [TICK:319.00] [下水道螃蟹:161] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 13:34:25.981] [TICK:319.00] [史莱姆:148] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:35:10.828] [TICK:350.00] [豺狼巡查:165] [SPAWN] Spawned at pos: 550
+[2026-05-10 13:36:16.660] [TICK:400.00] [蝇群:168] [SPAWN] Spawned at pos: 947
+[2026-05-10 13:36:17.360] [TICK:409.00] [蝇群:168] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:36:17.360] [TICK:409.00] [蝇群:168] [ALERT] Mob became alerted.
+[2026-05-10 13:36:17.360] [TICK:409.00] [蝇群:168] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 13:36:18.530] [TICK:409.29] [蝇群:169] [SPAWN] Spawned at pos: 655
+[2026-05-10 13:36:19.153] [TICK:410.29] [蝇群:169] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:36:22.003] [TICK:415.29] [蝇群:172] [SPAWN] Spawned at pos: 655
+[2026-05-10 13:36:22.883] [TICK:416.29] [蝇群:172] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:36:24.613] [TICK:419.29] [蝇群:175] [SPAWN] Spawned at pos: 655
+[2026-05-10 13:36:25.753] [TICK:420.29] [蝇群:175] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:36:28.488] [TICK:0.00] [粘咕:179] [SPAWN] Spawned at pos: 516
+[2026-05-10 13:36:28.488] [TICK:0.00] [鼠王:180] [SPAWN] Spawned at pos: 161
+[2026-05-10 13:36:39.300] [TICK:9.00] [粘咕:179] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:36:39.401] [TICK:10.00] [粘咕:179] [ALERT] Mob became alerted.
+[2026-05-10 13:36:39.401] [TICK:10.00] [粘咕:179] [STATE_TRANSITION] Sleeping -> Hunting
+[2026-05-10 13:36:48.682] [TICK:10.80] [绵羊:182] [SPAWN] Spawned at pos: 466
+[2026-05-10 13:36:48.682] [TICK:10.80] [绵羊:183] [SPAWN] Spawned at pos: 467
+[2026-05-10 13:36:48.683] [TICK:10.80] [绵羊:184] [SPAWN] Spawned at pos: 468
+[2026-05-10 13:36:48.683] [TICK:10.80] [绵羊:185] [SPAWN] Spawned at pos: 469
+[2026-05-10 13:36:48.683] [TICK:10.80] [绵羊:186] [SPAWN] Spawned at pos: 470
+[2026-05-10 13:36:48.683] [TICK:10.80] [绵羊:187] [SPAWN] Spawned at pos: 490
+[2026-05-10 13:36:48.683] [TICK:10.80] [绵羊:188] [SPAWN] Spawned at pos: 491
+[2026-05-10 13:36:48.684] [TICK:10.80] [绵羊:189] [SPAWN] Spawned at pos: 492
+[2026-05-10 13:36:48.684] [TICK:10.80] [绵羊:190] [SPAWN] Spawned at pos: 493
+[2026-05-10 13:36:48.684] [TICK:10.80] [绵羊:191] [SPAWN] Spawned at pos: 494
+[2026-05-10 13:36:48.684] [TICK:10.80] [绵羊:192] [SPAWN] Spawned at pos: 514
+[2026-05-10 13:36:48.684] [TICK:10.80] [绵羊:193] [SPAWN] Spawned at pos: 515
+[2026-05-10 13:36:48.684] [TICK:10.80] [绵羊:194] [SPAWN] Spawned at pos: 517
+[2026-05-10 13:36:48.685] [TICK:10.80] [绵羊:195] [SPAWN] Spawned at pos: 518
+[2026-05-10 13:36:48.685] [TICK:10.80] [绵羊:196] [SPAWN] Spawned at pos: 538
+[2026-05-10 13:36:48.685] [TICK:10.80] [绵羊:197] [SPAWN] Spawned at pos: 539
+[2026-05-10 13:36:48.685] [TICK:10.80] [绵羊:198] [SPAWN] Spawned at pos: 540
+[2026-05-10 13:36:48.685] [TICK:10.80] [绵羊:199] [SPAWN] Spawned at pos: 541
+[2026-05-10 13:36:48.685] [TICK:10.80] [绵羊:200] [SPAWN] Spawned at pos: 542
+[2026-05-10 13:36:48.685] [TICK:10.80] [绵羊:201] [SPAWN] Spawned at pos: 562
+[2026-05-10 13:36:48.686] [TICK:10.80] [绵羊:202] [SPAWN] Spawned at pos: 563
+[2026-05-10 13:36:48.686] [TICK:10.80] [绵羊:203] [SPAWN] Spawned at pos: 564
+[2026-05-10 13:36:48.686] [TICK:10.80] [绵羊:204] [SPAWN] Spawned at pos: 565
+[2026-05-10 13:36:48.686] [TICK:10.80] [绵羊:205] [SPAWN] Spawned at pos: 566
+[2026-05-10 13:36:56.891] [TICK:18.00] [粘咕:179] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:36:56.892] [TICK:18.00] [粘咕:179] [ALERT] Mob became alerted.
+[2026-05-10 13:36:56.892] [TICK:18.00] [粘咕:179] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 13:38:17.160] [TICK:0.00] [疯狂强盗:211] [SPAWN] Spawned at pos: 893
+[2026-05-10 13:38:17.160] [TICK:0.00] [店主:212] [SPAWN] Spawned at pos: 858
+[2026-05-10 13:38:17.160] [TICK:0.00] [蝇群:213] [SPAWN] Spawned at pos: 1060
+[2026-05-10 13:38:17.160] [TICK:0.00] [蝇群:214] [SPAWN] Spawned at pos: 601
+[2026-05-10 13:38:17.161] [TICK:0.00] [骷髅:215] [SPAWN] Spawned at pos: 798
+[2026-05-10 13:38:17.161] [TICK:0.00] [骷髅:216] [SPAWN] Spawned at pos: 1073
+[2026-05-10 13:38:17.161] [TICK:0.00] [骷髅:217] [SPAWN] Spawned at pos: 1078
+[2026-05-10 13:38:33.771] [TICK:48.00] [蝇群:214] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:38:33.771] [TICK:48.00] [蝇群:214] [ALERT] Mob became alerted.
+[2026-05-10 13:38:33.772] [TICK:48.00] [蝇群:214] [STATE_TRANSITION] Sleeping -> Hunting
+[2026-05-10 13:38:34.897] [TICK:48.40] [蝇群:223] [SPAWN] Spawned at pos: 649
+[2026-05-10 13:38:35.567] [TICK:49.40] [蝇群:226] [SPAWN] Spawned at pos: 552
+[2026-05-10 13:38:35.721] [TICK:49.40] [蝇群:223] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:38:36.167] [TICK:50.40] [蝇群:228] [SPAWN] Spawned at pos: 507
+[2026-05-10 13:38:36.317] [TICK:50.40] [蝇群:226] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:38:37.098] [TICK:51.40] [蝇群:228] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:38:37.697] [TICK:52.40] [蝇群:230] [SPAWN] Spawned at pos: 554
+[2026-05-10 13:38:38.607] [TICK:53.40] [蝇群:230] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:38:39.340] [TICK:54.40] [蝇群:233] [SPAWN] Spawned at pos: 505
+[2026-05-10 13:38:40.757] [TICK:55.40] [蝇群:233] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:38:45.471] [TICK:62.92] [蝇群:238] [SPAWN] Spawned at pos: 507
+[2026-05-10 13:38:45.821] [TICK:63.92] [蝇群:238] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:38:49.634] [TICK:74.00] [骷髅:217] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:39:02.138] [TICK:86.00] [骷髅:216] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:39:26.379] [TICK:100.00] [疯狂小偷:245] [SPAWN] Spawned at pos: 1298
+[2026-05-10 13:39:44.369] [TICK:110.00] [骷髅:215] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:39:44.370] [TICK:110.00] [疯狂强盗:211] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:39:47.703] [TICK:111.00] [骷髅:215] [ALERT] Mob became alerted.
+[2026-05-10 13:39:47.703] [TICK:111.00] [骷髅:215] [STATE_TRANSITION] Sleeping -> Hunting
+[2026-05-10 13:39:57.870] [TICK:119.00] [疯狂小偷:245] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:39:59.490] [TICK:122.00] [疯狂小偷:245] [ALERT] Mob became alerted.
+[2026-05-10 13:39:59.490] [TICK:122.00] [疯狂小偷:245] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 13:40:52.702] [TICK:150.00] [骷髅:251] [SPAWN] Spawned at pos: 967
+[2026-05-10 13:43:06.083] [TICK:200.00] [骷髅:253] [SPAWN] Spawned at pos: 1349
+[2026-05-10 13:43:10.603] [TICK:207.00] [骷髅:251] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:43:33.934] [TICK:250.00] [骷髅:255] [SPAWN] Spawned at pos: 1062
+[2026-05-10 13:43:56.488] [TICK:293.00] [蝇群:213] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:43:57.696] [TICK:294.00] [蝇群:259] [SPAWN] Spawned at pos: 1061
+[2026-05-10 13:43:58.267] [TICK:295.00] [蝇群:262] [SPAWN] Spawned at pos: 965
+[2026-05-10 13:43:58.420] [TICK:295.00] [蝇群:259] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:43:58.867] [TICK:296.00] [蝇群:262] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:43:59.435] [TICK:297.00] [蝇群:264] [SPAWN] Spawned at pos: 1111
+[2026-05-10 13:44:00.387] [TICK:298.00] [蝇群:264] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:44:02.217] [TICK:300.00] [骷髅:268] [SPAWN] Spawned at pos: 792
+[2026-05-10 13:44:40.699] [TICK:350.00] [骷髅:276] [SPAWN] Spawned at pos: 797
+[2026-05-10 13:45:34.823] [TICK:400.00] [蝇群:279] [SPAWN] Spawned at pos: 893
+[2026-05-10 13:46:05.184] [TICK:450.00] [疯狂小偷:282] [SPAWN] Spawned at pos: 942
+[2026-05-10 13:46:11.495] [TICK:457.00] [疯狂小偷:282] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:46:11.495] [TICK:457.00] [疯狂小偷:282] [ALERT] Mob became alerted.
+[2026-05-10 13:46:11.495] [TICK:457.00] [疯狂小偷:282] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 13:47:32.644] [TICK:500.00] [骷髅:286] [SPAWN] Spawned at pos: 821
+[2026-05-10 13:48:30.375] [TICK:520.00] [骷髅:268] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:48:35.685] [TICK:531.00] [蝇群:279] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:48:35.785] [TICK:532.00] [骷髅:286] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:48:35.786] [TICK:532.00] [骷髅:286] [ALERT] Mob became alerted.
+[2026-05-10 13:48:35.786] [TICK:532.00] [骷髅:286] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 13:48:36.856] [TICK:533.00] [蝇群:288] [SPAWN] Spawned at pos: 752
+[2026-05-10 13:48:37.815] [TICK:534.00] [蝇群:291] [SPAWN] Spawned at pos: 848
+[2026-05-10 13:48:37.965] [TICK:534.00] [蝇群:288] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:48:38.985] [TICK:535.00] [蝇群:291] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:48:45.389] [TICK:543.00] [疯狂小偷:297] [SPAWN] Spawned at pos: 845
+[2026-05-10 13:48:47.816] [TICK:544.00] [疯狂小偷:297] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:48:50.419] [TICK:547.00] [蝇群:299] [SPAWN] Spawned at pos: 1206
+[2026-05-10 13:48:51.896] [TICK:550.00] [骷髅:300] [SPAWN] Spawned at pos: 1060
+[2026-05-10 13:48:54.372] [TICK:557.00] [蝇群:301] [SPAWN] Spawned at pos: 1071
+[2026-05-10 13:48:55.379] [TICK:558.00] [蝇群:304] [SPAWN] Spawned at pos: 1119
+[2026-05-10 13:48:55.529] [TICK:558.00] [蝇群:301] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:48:56.259] [TICK:559.00] [蝇群:304] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:48:56.976] [TICK:560.00] [蝇群:306] [SPAWN] Spawned at pos: 1074
+[2026-05-10 13:48:57.579] [TICK:561.00] [蝇群:306] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:49:04.667] [TICK:573.00] [骷髅:313] [SPAWN] Spawned at pos: 1396
+[2026-05-10 13:49:10.758] [TICK:0.00] [骷髅:315] [SPAWN] Spawned at pos: 797
+[2026-05-10 13:49:10.758] [TICK:0.00] [骷髅:316] [SPAWN] Spawned at pos: 470
+[2026-05-10 13:49:10.758] [TICK:0.00] [疯狂小偷:317] [SPAWN] Spawned at pos: 136
+[2026-05-10 13:49:10.758] [TICK:0.00] [骷髅:318] [SPAWN] Spawned at pos: 201
+[2026-05-10 13:49:10.759] [TICK:0.00] [骷髅:319] [SPAWN] Spawned at pos: 1233
+[2026-05-10 13:49:10.759] [TICK:0.00] [活化石像:320] [SPAWN] Spawned at pos: 719
+[2026-05-10 13:49:10.759] [TICK:0.00] [血色哨卫:321] [SPAWN] Spawned at pos: 449
+[2026-05-10 13:49:10.759] [TICK:0.00] [DM-100:322] [SPAWN] Spawned at pos: 857
+[2026-05-10 13:49:10.759] [TICK:0.00] [监狱守卫:323] [SPAWN] Spawned at pos: 755
+[2026-05-10 13:49:36.264] [TICK:6.00] [疯狂小偷:317] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:49:39.394] [TICK:10.00] [骷髅:318] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:50:01.431] [TICK:50.00] [监狱守卫:330] [SPAWN] Spawned at pos: 1163
+[2026-05-10 13:50:06.321] [TICK:60.00] [DM-100:322] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:50:06.322] [TICK:60.00] [骷髅:315] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:50:37.180] [TICK:74.00] [监狱守卫:330] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:50:37.180] [TICK:74.00] [监狱守卫:330] [ALERT] Mob became alerted.
+[2026-05-10 13:50:37.180] [TICK:74.00] [监狱守卫:330] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 13:50:53.473] [TICK:100.00] [骷髅:339] [SPAWN] Spawned at pos: 141
+[2026-05-10 13:50:57.000] [TICK:112.00] [骷髅:319] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:51:14.158] [TICK:150.00] [骷髅:346] [SPAWN] Spawned at pos: 262
+[2026-05-10 13:51:31.401] [TICK:200.00] [DM-100:351] [SPAWN] Spawned at pos: 140
+[2026-05-10 13:51:39.963] [TICK:214.00] [骷髅:339] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:51:40.494] [TICK:215.00] [骷髅:339] [ALERT] Mob became alerted.
+[2026-05-10 13:51:40.495] [TICK:215.00] [骷髅:339] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 13:51:43.921] [TICK:220.00] [DM-100:351] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:51:43.922] [TICK:220.00] [DM-100:351] [ALERT] Mob became alerted.
+[2026-05-10 13:51:43.922] [TICK:220.00] [DM-100:351] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 13:51:56.419] [TICK:239.00] [监狱守卫:323] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:52:02.465] [TICK:248.00] [活化石像:320] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:52:09.278] [TICK:250.00] [疯狂小偷:358] [SPAWN] Spawned at pos: 229
+[2026-05-10 13:52:30.480] [TICK:276.00] [骷髅:316] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:52:30.480] [TICK:276.00] [骷髅:316] [ALERT] Mob became alerted.
+[2026-05-10 13:52:30.480] [TICK:276.00] [骷髅:316] [STATE_TRANSITION] Sleeping -> Hunting
+[2026-05-10 13:54:13.739] [TICK:300.00] [疯狂小偷:364] [SPAWN] Spawned at pos: 604
+[2026-05-10 13:54:19.949] [TICK:312.00] [疯狂小偷:364] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:54:19.949] [TICK:312.00] [疯狂小偷:364] [ALERT] Mob became alerted.
+[2026-05-10 13:54:19.950] [TICK:312.00] [疯狂小偷:364] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 13:54:43.533] [TICK:350.00] [骷髅:370] [SPAWN] Spawned at pos: 296
+[2026-05-10 13:55:05.896] [TICK:0.00] [骷髅:372] [SPAWN] Spawned at pos: 935
+[2026-05-10 13:55:05.897] [TICK:0.00] [宝箱:373] [SPAWN] Spawned at pos: 577
+[2026-05-10 13:55:05.897] [TICK:0.00] [疯狂小偷:374] [SPAWN] Spawned at pos: 588
+[2026-05-10 13:55:05.897] [TICK:0.00] [DM-100:375] [SPAWN] Spawned at pos: 892
+[2026-05-10 13:55:05.897] [TICK:0.00] [监狱守卫:376] [SPAWN] Spawned at pos: 328
+[2026-05-10 13:55:05.897] [TICK:0.00] [骷髅:377] [SPAWN] Spawned at pos: 450
+[2026-05-10 13:55:05.897] [TICK:0.00] [DM-100:378] [SPAWN] Spawned at pos: 1140
+[2026-05-10 13:55:05.898] [TICK:0.00] [死灵法师:379] [SPAWN] Spawned at pos: 762
+[2026-05-10 13:55:29.225] [TICK:23.00] [DM-100:375] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:55:39.184] [TICK:38.00] [DM-100:378] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:55:40.861] [TICK:40.00] [DM-100:378] [ALERT] Mob became alerted.
+[2026-05-10 13:55:40.861] [TICK:40.00] [DM-100:378] [STATE_TRANSITION] Sleeping -> Hunting
+[2026-05-10 13:55:47.065] [TICK:50.00] [监狱守卫:387] [SPAWN] Spawned at pos: 258
+[2026-05-10 13:56:00.136] [TICK:108.00] [骷髅:372] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:56:00.136] [TICK:108.00] [骷髅:372] [ALERT] Mob became alerted.
+[2026-05-10 13:56:00.136] [TICK:108.00] [骷髅:372] [STATE_TRANSITION] Sleeping -> Hunting
+[2026-05-10 13:56:09.239] [TICK:127.00] [疯狂小偷:374] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:56:09.239] [TICK:127.00] [死灵法师:379] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:56:31.666] [TICK:129.00] [死灵法师的骷髅:390] [SPAWN] Spawned at pos: 797
+[2026-05-10 13:56:31.668] [TICK:129.00] [死灵法师的骷髅:390] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:56:32.526] [TICK:130.00] [疯狂小偷:374] [ALERT] Mob became alerted.
+[2026-05-10 13:56:32.526] [TICK:130.00] [疯狂小偷:374] [STATE_TRANSITION] Sleeping -> Hunting
+[2026-05-10 13:56:34.206] [TICK:132.00] [死灵法师的骷髅:390] [ALERT] Mob became alerted.
+[2026-05-10 13:56:34.207] [TICK:132.00] [死灵法师的骷髅:390] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 13:57:03.881] [TICK:147.00] [骷髅:377] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:57:07.334] [TICK:150.00] [监狱守卫:394] [SPAWN] Spawned at pos: 1315
+[2026-05-10 13:57:09.178] [TICK:156.00] [怨灵:397] [SPAWN] Spawned at pos: 483
+[2026-05-10 13:57:09.179] [TICK:156.00] [怨灵:398] [SPAWN] Spawned at pos: 517
+[2026-05-10 13:57:09.179] [TICK:156.00] [怨灵:399] [SPAWN] Spawned at pos: 519
+[2026-05-10 13:57:09.179] [TICK:156.00] [怨灵:400] [SPAWN] Spawned at pos: 553
+[2026-05-10 13:57:10.870] [TICK:158.00] [怨灵:397] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:57:11.171] [TICK:158.00] [怨灵:400] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:57:11.472] [TICK:158.00] [怨灵:398] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:57:11.774] [TICK:158.00] [怨灵:399] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:57:27.960] [TICK:177.00] [怨灵:406] [SPAWN] Spawned at pos: 376
+[2026-05-10 13:57:27.961] [TICK:177.00] [怨灵:407] [SPAWN] Spawned at pos: 410
+[2026-05-10 13:57:30.729] [TICK:179.00] [怨灵:408] [SPAWN] Spawned at pos: 412
+[2026-05-10 13:57:30.729] [TICK:179.00] [怨灵:409] [SPAWN] Spawned at pos: 446
+[2026-05-10 13:57:30.730] [TICK:179.00] [怨灵:406] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:57:31.032] [TICK:179.00] [怨灵:407] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:57:32.638] [TICK:181.00] [怨灵:408] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:57:32.639] [TICK:181.00] [怨灵:409] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:57:36.285] [TICK:186.00] [监狱守卫:394] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:57:36.895] [TICK:187.00] [怨灵:407] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:57:37.305] [TICK:189.00] [监狱守卫:394] [ALERT] Mob became alerted.
+[2026-05-10 13:57:37.306] [TICK:189.00] [监狱守卫:394] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 13:57:41.325] [TICK:193.00] [怨灵:407] [TARGET_ASSIGN] New target: NONE
+[2026-05-10 13:57:45.229] [TICK:200.00] [DM-100:419] [SPAWN] Spawned at pos: 867
+[2026-05-10 13:57:53.379] [TICK:227.00] [监狱守卫:387] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:57:53.379] [TICK:227.00] [监狱守卫:387] [ALERT] Mob became alerted.
+[2026-05-10 13:57:53.379] [TICK:227.00] [监狱守卫:387] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 13:57:53.380] [TICK:227.00] [监狱守卫:376] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:58:13.186] [TICK:247.00] [怨灵:432] [SPAWN] Spawned at pos: 189
+[2026-05-10 13:58:13.186] [TICK:247.00] [怨灵:433] [SPAWN] Spawned at pos: 223
+[2026-05-10 13:58:13.186] [TICK:247.00] [怨灵:434] [SPAWN] Spawned at pos: 259
+[2026-05-10 13:58:14.689] [TICK:249.00] [怨灵:434] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:58:14.689] [TICK:249.00] [怨灵:432] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:58:14.989] [TICK:249.00] [怨灵:433] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:58:16.553] [TICK:250.00] [监狱守卫:436] [SPAWN] Spawned at pos: 1006
+[2026-05-10 13:58:21.349] [TICK:256.00] [怨灵:438] [SPAWN] Spawned at pos: 187
+[2026-05-10 13:58:21.349] [TICK:256.00] [怨灵:439] [SPAWN] Spawned at pos: 221
+[2026-05-10 13:58:21.350] [TICK:256.00] [怨灵:440] [SPAWN] Spawned at pos: 223
+[2026-05-10 13:58:21.350] [TICK:256.00] [怨灵:441] [SPAWN] Spawned at pos: 257
+[2026-05-10 13:58:22.823] [TICK:258.00] [怨灵:439] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:58:23.122] [TICK:258.00] [怨灵:441] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:59:43.492] [TICK:300.00] [DM-100:448] [SPAWN] Spawned at pos: 485
+[2026-05-10 13:59:43.891] [TICK:304.00] [监狱守卫:436] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 13:59:43.892] [TICK:304.00] [监狱守卫:436] [ALERT] Mob became alerted.
+[2026-05-10 13:59:43.892] [TICK:304.00] [监狱守卫:436] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 14:00:03.187] [TICK:332.00] [DM-100:448] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 14:00:03.187] [TICK:332.00] [DM-100:448] [ALERT] Mob became alerted.
+[2026-05-10 14:00:03.187] [TICK:332.00] [DM-100:448] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 14:00:13.936] [TICK:350.00] [骷髅:462] [SPAWN] Spawned at pos: 413
+[2026-05-10 14:00:29.454] [TICK:357.00] [DM-100:419] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 14:00:41.870] [TICK:22.00] [骷髅:467] [SPAWN] Spawned at pos: 471
+[2026-05-10 14:01:06.961] [TICK:33.00] [骷髅:470] [SPAWN] Spawned at pos: 1138
+[2026-05-10 14:01:07.665] [TICK:35.00] [怨灵:471] [SPAWN] Spawned at pos: 653
+[2026-05-10 14:01:07.665] [TICK:35.00] [怨灵:472] [SPAWN] Spawned at pos: 687
+[2026-05-10 14:01:07.665] [TICK:35.00] [怨灵:473] [SPAWN] Spawned at pos: 689
+[2026-05-10 14:01:07.665] [TICK:35.00] [怨灵:474] [SPAWN] Spawned at pos: 723
+[2026-05-10 14:01:10.398] [TICK:37.00] [怨灵:472] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 14:01:10.699] [TICK:37.00] [怨灵:471] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 14:01:11.001] [TICK:37.00] [怨灵:474] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 14:01:11.002] [TICK:37.00] [怨灵:473] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 14:01:26.306] [TICK:56.00] [骷髅:470] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 14:01:26.605] [TICK:59.00] [骷髅:470] [ALERT] Mob became alerted.
+[2026-05-10 14:01:26.605] [TICK:59.00] [骷髅:470] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 14:01:32.102] [TICK:83.00] [疯狂小偷:479] [SPAWN] Spawned at pos: 889
+[2026-05-10 14:01:46.329] [TICK:125.00] [骷髅:462] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 14:01:46.329] [TICK:125.00] [骷髅:462] [ALERT] Mob became alerted.
+[2026-05-10 14:01:46.329] [TICK:125.00] [骷髅:462] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 14:01:50.833] [TICK:133.00] [死灵法师:481] [SPAWN] Spawned at pos: 1312
+[2026-05-10 14:01:52.246] [TICK:0.00] [死灵法师:482] [SPAWN] Spawned at pos: 748
+[2026-05-10 14:01:52.246] [TICK:0.00] [骷髅:483] [SPAWN] Spawned at pos: 752
+[2026-05-10 14:01:52.246] [TICK:0.00] [疯狂小偷:484] [SPAWN] Spawned at pos: 113
+[2026-05-10 14:01:52.246] [TICK:0.00] [骷髅:485] [SPAWN] Spawned at pos: 490
+[2026-05-10 14:01:52.246] [TICK:0.00] [DM-100:486] [SPAWN] Spawned at pos: 760
+[2026-05-10 14:01:52.246] [TICK:0.00] [老杖匠:487] [SPAWN] Spawned at pos: 440
+[2026-05-10 14:01:52.247] [TICK:0.00] [监狱守卫:488] [SPAWN] Spawned at pos: 880
+[2026-05-10 14:01:52.247] [TICK:0.00] [监狱守卫:489] [SPAWN] Spawned at pos: 1322
+[2026-05-10 14:01:52.247] [TICK:0.00] [DM-100:490] [SPAWN] Spawned at pos: 749
+[2026-05-10 14:01:52.247] [TICK:0.00] [死灵法师:491] [SPAWN] Spawned at pos: 1259
+[2026-05-10 14:02:15.143] [TICK:0.00] [DM-100:486] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 14:03:12.275] [TICK:36.00] [骷髅:483] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 14:03:12.276] [TICK:36.00] [监狱守卫:488] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 14:03:23.305] [TICK:50.00] [死灵法师:504] [SPAWN] Spawned at pos: 1103
+[2026-05-10 14:03:28.229] [TICK:55.00] [DM-100:490] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 14:03:28.229] [TICK:55.00] [死灵法师:482] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 14:03:33.082] [TICK:60.00] [死灵法师:482] [ALERT] Mob became alerted.
+[2026-05-10 14:03:33.082] [TICK:60.00] [死灵法师:482] [STATE_TRANSITION] Sleeping -> Hunting
+[2026-05-10 14:03:38.442] [TICK:62.00] [死灵法师的骷髅:507] [SPAWN] Spawned at pos: 750
+[2026-05-10 14:03:38.442] [TICK:62.00] [死灵法师的骷髅:507] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 14:03:40.443] [TICK:64.00] [死灵法师的骷髅:507] [ALERT] Mob became alerted.
+[2026-05-10 14:03:40.443] [TICK:64.00] [死灵法师的骷髅:507] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 14:03:41.462] [TICK:65.00] [死灵法师:504] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 14:03:41.463] [TICK:65.00] [死灵法师:504] [ALERT] Mob became alerted.
+[2026-05-10 14:03:41.463] [TICK:65.00] [死灵法师:504] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 14:03:42.506] [TICK:66.00] [死灵法师的骷髅:509] [SPAWN] Spawned at pos: 816
+[2026-05-10 14:03:42.906] [TICK:66.00] [死灵法师的骷髅:509] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 14:03:45.739] [TICK:68.50] [死灵法师的骷髅:509] [ALERT] Mob became alerted.
+[2026-05-10 14:03:45.739] [TICK:68.50] [死灵法师的骷髅:509] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 14:04:00.343] [TICK:100.00] [监狱守卫:516] [SPAWN] Spawned at pos: 1319
+[2026-05-10 14:04:08.996] [TICK:111.00] [死灵法师:491] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 14:04:14.953] [TICK:120.00] [死灵法师的骷髅:522] [SPAWN] Spawned at pos: 1067
+[2026-05-10 14:04:15.354] [TICK:120.00] [死灵法师的骷髅:522] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 14:04:15.354] [TICK:120.00] [死灵法师的骷髅:522] [ALERT] Mob became alerted.
+[2026-05-10 14:04:15.354] [TICK:120.00] [死灵法师的骷髅:522] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 14:04:21.844] [TICK:127.00] [死灵法师的骷髅:527] [SPAWN] Spawned at pos: 1067
+[2026-05-10 14:04:21.994] [TICK:127.00] [死灵法师的骷髅:527] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 14:04:21.994] [TICK:127.00] [死灵法师的骷髅:527] [ALERT] Mob became alerted.
+[2026-05-10 14:04:21.994] [TICK:127.00] [死灵法师的骷髅:527] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 14:04:33.384] [TICK:150.00] [DM-100:529] [SPAWN] Spawned at pos: 631
+[2026-05-10 14:04:33.728] [TICK:151.00] [监狱守卫:489] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 14:08:24.378] [TICK:17.00] [疯狂小偷:532] [SPAWN] Spawned at pos: 177
+[2026-05-10 14:08:45.051] [TICK:67.00] [死灵法师:537] [SPAWN] Spawned at pos: 873
+[2026-05-10 14:09:07.106] [TICK:117.00] [DM-100:539] [SPAWN] Spawned at pos: 113
+[2026-05-10 14:09:32.520] [TICK:129.00] [骷髅:485] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 14:09:40.426] [TICK:142.00] [怨灵:544] [SPAWN] Spawned at pos: 361
+[2026-05-10 14:09:41.563] [TICK:145.00] [怨灵:547] [SPAWN] Spawned at pos: 522
+[2026-05-10 14:09:43.294] [TICK:146.00] [怨灵:549] [SPAWN] Spawned at pos: 491
+[2026-05-10 14:09:44.283] [TICK:147.00] [怨灵:551] [SPAWN] Spawned at pos: 522
+[2026-05-10 14:09:45.080] [TICK:148.00] [怨灵:553] [SPAWN] Spawned at pos: 488
+[2026-05-10 14:09:45.751] [TICK:149.00] [怨灵:555] [SPAWN] Spawned at pos: 488
+[2026-05-10 14:09:46.357] [TICK:150.00] [怨灵:557] [SPAWN] Spawned at pos: 522
+[2026-05-10 14:09:47.580] [TICK:152.00] [怨灵:559] [SPAWN] Spawned at pos: 489
+[2026-05-10 14:09:48.697] [TICK:154.00] [怨灵:561] [SPAWN] Spawned at pos: 491
+[2026-05-10 14:09:49.351] [TICK:155.00] [怨灵:563] [SPAWN] Spawned at pos: 491
+[2026-05-10 14:09:49.943] [TICK:156.00] [怨灵:565] [SPAWN] Spawned at pos: 487
+[2026-05-10 14:09:50.526] [TICK:157.00] [怨灵:567] [SPAWN] Spawned at pos: 487
+[2026-05-10 14:09:51.151] [TICK:158.00] [怨灵:569] [SPAWN] Spawned at pos: 491
+[2026-05-10 14:09:51.803] [TICK:159.00] [怨灵:571] [SPAWN] Spawned at pos: 487
+[2026-05-10 14:09:52.397] [TICK:160.00] [怨灵:573] [SPAWN] Spawned at pos: 489
+[2026-05-10 14:09:52.891] [TICK:161.00] [怨灵:575] [SPAWN] Spawned at pos: 487
+[2026-05-10 14:09:53.511] [TICK:162.00] [怨灵:577] [SPAWN] Spawned at pos: 488
+[2026-05-10 14:09:54.008] [TICK:163.00] [怨灵:579] [SPAWN] Spawned at pos: 490
+[2026-05-10 14:09:54.517] [TICK:164.00] [怨灵:581] [SPAWN] Spawned at pos: 490
+[2026-05-10 14:09:55.044] [TICK:165.00] [怨灵:583] [SPAWN] Spawned at pos: 522
+[2026-05-10 14:09:55.584] [TICK:166.00] [怨灵:585] [SPAWN] Spawned at pos: 487
+[2026-05-10 14:09:56.090] [TICK:167.00] [监狱守卫:586] [SPAWN] Spawned at pos: 1260
+[2026-05-10 14:09:56.601] [TICK:168.00] [怨灵:588] [SPAWN] Spawned at pos: 491
+[2026-05-10 14:09:57.170] [TICK:169.00] [怨灵:589] [SPAWN] Spawned at pos: 488
+[2026-05-10 14:09:58.384] [TICK:171.00] [怨灵:592] [SPAWN] Spawned at pos: 489
+[2026-05-10 14:09:59.017] [TICK:172.00] [怨灵:594] [SPAWN] Spawned at pos: 490
+[2026-05-10 14:10:00.144] [TICK:174.00] [怨灵:594] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 14:10:00.784] [TICK:175.00] [怨灵:596] [SPAWN] Spawned at pos: 491
+[2026-05-10 14:10:01.417] [TICK:176.00] [怨灵:597] [SPAWN] Spawned at pos: 522
+[2026-05-10 14:10:02.511] [TICK:178.00] [怨灵:600] [SPAWN] Spawned at pos: 490
+[2026-05-10 14:10:03.257] [TICK:179.00] [怨灵:602] [SPAWN] Spawned at pos: 488
+[2026-05-10 14:10:04.287] [TICK:181.00] [怨灵:602] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 14:10:06.690] [TICK:184.00] [怨灵:603] [SPAWN] Spawned at pos: 460
+[2026-05-10 14:10:08.228] [TICK:186.00] [怨灵:603] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 14:10:12.900] [TICK:192.00] [怨灵:604] [SPAWN] Spawned at pos: 741
+[2026-05-10 14:10:13.801] [TICK:194.00] [怨灵:604] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 14:10:14.951] [TICK:196.00] [怨灵:608] [SPAWN] Spawned at pos: 675
+[2026-05-10 14:10:15.645] [TICK:197.00] [怨灵:610] [SPAWN] Spawned at pos: 591
+[2026-05-10 14:10:16.114] [TICK:198.00] [怨灵:612] [SPAWN] Spawned at pos: 657
+[2026-05-10 14:10:17.044] [TICK:199.00] [怨灵:614] [SPAWN] Spawned at pos: 689
+[2026-05-10 14:10:18.647] [TICK:200.00] [怨灵:616] [SPAWN] Spawned at pos: 740
+[2026-05-10 14:10:20.191] [TICK:201.00] [怨灵:617] [SPAWN] Spawned at pos: 614
+[2026-05-10 14:10:20.838] [TICK:202.00] [怨灵:616] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 14:10:21.385] [TICK:203.00] [怨灵:617] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 14:10:21.831] [TICK:204.00] [怨灵:620] [SPAWN] Spawned at pos: 547
+[2026-05-10 14:10:22.428] [TICK:205.00] [怨灵:622] [SPAWN] Spawned at pos: 610
+[2026-05-10 14:10:23.081] [TICK:206.00] [怨灵:624] [SPAWN] Spawned at pos: 546
+[2026-05-10 14:10:23.701] [TICK:207.00] [怨灵:626] [SPAWN] Spawned at pos: 681
+[2026-05-10 14:10:24.515] [TICK:208.00] [怨灵:628] [SPAWN] Spawned at pos: 657
+[2026-05-10 14:10:25.545] [TICK:210.00] [怨灵:628] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 14:10:25.545] [TICK:210.00] [怨灵:629] [SPAWN] Spawned at pos: 682
+[2026-05-10 14:10:26.124] [TICK:212.00] [怨灵:629] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 14:10:26.125] [TICK:212.00] [DM-100:539] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 14:10:27.692] [TICK:214.00] [怨灵:632] [SPAWN] Spawned at pos: 370
+[2026-05-10 14:10:28.422] [TICK:215.00] [怨灵:634] [SPAWN] Spawned at pos: 550
+[2026-05-10 14:10:28.948] [TICK:216.00] [怨灵:632] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 14:10:30.089] [TICK:217.00] [怨灵:634] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 14:10:30.089] [TICK:217.00] [骷髅:635] [SPAWN] Spawned at pos: 823
+[2026-05-10 14:10:32.795] [TICK:221.00] [怨灵:637] [SPAWN] Spawned at pos: 432
+[2026-05-10 14:10:33.925] [TICK:223.00] [怨灵:640] [SPAWN] Spawned at pos: 371
+[2026-05-10 14:10:34.608] [TICK:224.00] [死灵法师:537] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 14:10:34.608] [TICK:224.00] [怨灵:642] [SPAWN] Spawned at pos: 685
+[2026-05-10 14:10:35.332] [TICK:225.00] [怨灵:644] [SPAWN] Spawned at pos: 334
+[2026-05-10 14:10:36.002] [TICK:226.00] [怨灵:646] [SPAWN] Spawned at pos: 585
+[2026-05-10 14:10:36.581] [TICK:227.00] [怨灵:644] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 14:10:37.015] [TICK:228.00] [怨灵:646] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 14:10:37.545] [TICK:229.00] [死灵法师的骷髅:647] [SPAWN] Spawned at pos: 526
+[2026-05-10 14:10:37.545] [TICK:229.00] [死灵法师的骷髅:647] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 14:10:44.349] [TICK:234.00] [怨灵:649] [SPAWN] Spawned at pos: 339
+[2026-05-10 14:10:46.932] [TICK:236.00] [怨灵:649] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 14:10:49.062] [TICK:238.00] [怨灵:652] [SPAWN] Spawned at pos: 687
+[2026-05-10 14:10:49.756] [TICK:240.00] [怨灵:652] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 14:10:50.478] [TICK:241.00] [怨灵:654] [SPAWN] Spawned at pos: 554
+[2026-05-10 14:10:51.262] [TICK:243.00] [怨灵:654] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 14:10:54.215] [TICK:247.00] [怨灵:655] [SPAWN] Spawned at pos: 586
+[2026-05-10 14:11:02.412] [TICK:249.00] [怨灵:655] [STATE_TRANSITION] Hunting -> Wandering
+[2026-05-10 14:11:05.756] [TICK:261.00] [怨灵:659] [SPAWN] Spawned at pos: 567
+[2026-05-10 14:11:07.193] [TICK:263.00] [怨灵:659] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 14:11:08.730] [TICK:266.00] [怨灵:662] [SPAWN] Spawned at pos: 570
+[2026-05-10 14:11:09.462] [TICK:267.00] [DM-100:664] [SPAWN] Spawned at pos: 1351
+[2026-05-10 14:11:09.563] [TICK:268.00] [怨灵:662] [STATE_TRANSITION] Hunting -> Wandering
+[2026-05-10 14:11:09.663] [TICK:269.00] [怨灵:662] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 14:11:11.093] [TICK:276.00] [怨灵:662] [TARGET_ASSIGN] New target: NONE
+[2026-05-10 14:12:03.044] [TICK:279.00] [监狱守卫:586] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 14:12:03.045] [TICK:279.00] [监狱守卫:586] [ALERT] Mob became alerted.
+[2026-05-10 14:12:03.045] [TICK:279.00] [监狱守卫:586] [STATE_TRANSITION] Wandering -> Hunting
+[2026-05-10 14:12:23.048] [TICK:317.00] [监狱守卫:675] [SPAWN] Spawned at pos: 209
+[2026-05-10 14:12:37.949] [TICK:32.00] [天狗:677] [SPAWN] Spawned at pos: 874
+[2026-05-10 14:12:37.950] [TICK:32.00] [天狗:677] [ALERT] Mob became alerted.
+[2026-05-10 14:12:38.285] [TICK:32.00] [天狗:677] [TARGET_ASSIGN] New target: 女猎手
+[2026-05-10 15:37:56.720] [TICK:12.00] [啮齿小鼠:11] [TARGET_ASSIGN] New target: 牧师
+[2026-05-10 15:37:56.721] [TICK:12.00] [啮齿小鼠:11] [ALERT] Mob became alerted.
+[2026-05-10 15:37:56.722] [TICK:12.00] [啮齿小鼠:11] [STATE_TRANSITION] Sleeping -> Hunting
