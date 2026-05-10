@@ -49,4 +49,9 @@ public class Albino extends Rat {
 		
 		return damage;
 	}
+
+	@Override
+	protected String specialAbilityInfo() {
+		return "Has a chance to inflict bleeding when its attack deals damage.";
+	}
 }

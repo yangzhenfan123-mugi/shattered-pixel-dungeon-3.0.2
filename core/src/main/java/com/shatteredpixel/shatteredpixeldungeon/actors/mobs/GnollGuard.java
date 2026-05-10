@@ -89,6 +89,34 @@ public class GnollGuard extends Mob {
 	}
 
 	@Override
+	protected int damageRollMin() {
+		if (enemy != null && !Dungeon.level.adjacent(pos, enemy.pos)){
+			return 16;
+		} else {
+			return 6;
+		}
+	}
+
+	@Override
+	protected int damageRollMax() {
+		if (enemy != null && !Dungeon.level.adjacent(pos, enemy.pos)){
+			return 22;
+		} else {
+			return 12;
+		}
+	}
+
+	@Override
+	protected String attackTypeInfo() {
+		return Messages.get(Mob.class, "combat_attack_reach");
+	}
+
+	@Override
+	protected String specialAbilityInfo() {
+		return "Can hit up to 2 tiles away in open space; deals much less damage if you stand next to it.";
+	}
+
+	@Override
 	public int attackProc(Char enemy, int damage) {
 		int dmg = super.attackProc(enemy, damage);
 		if (enemy == Dungeon.hero && !Dungeon.level.adjacent(pos, enemy.pos) && dmg > 12){

@@ -48,10 +48,25 @@ public class Snake extends Mob {
 	public int damageRoll() {
 		return Random.NormalIntRange( 1, 4 );
 	}
+
+	@Override
+	protected int damageRollMin() {
+		return 1;
+	}
+
+	@Override
+	protected int damageRollMax() {
+		return 4;
+	}
 	
 	@Override
 	public int attackSkill( Char target ) {
 		return 10;
+	}
+
+	@Override
+	protected String specialAbilityInfo() {
+		return "Very high evasion; surprise attacks and magical attacks are more reliable.";
 	}
 
 	private static int dodges = 0;

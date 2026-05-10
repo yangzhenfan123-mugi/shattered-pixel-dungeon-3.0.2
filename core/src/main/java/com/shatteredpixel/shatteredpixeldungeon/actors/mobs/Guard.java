@@ -67,6 +67,28 @@ public class Guard extends Mob {
 		return Random.NormalIntRange(4, 12);
 	}
 
+	@Override
+	protected int damageRollMin() {
+		return 4;
+	}
+
+	@Override
+	protected int damageRollMax() {
+		return 12;
+	}
+
+	@Override
+	protected String attackTypeInfo() {
+		return Messages.get(Mob.class, "combat_attack_chain");
+	}
+
+	@Override
+	protected String specialAbilityInfo() {
+		return chainsUsed
+				? "Has already used its chain pull on this floor."
+				: "Can pull a distant target into melee range once, then cripples them briefly.";
+	}
+
 	private boolean chain(int target){
 		if (chainsUsed || enemy.properties().contains(Property.IMMOVABLE))
 			return false;
