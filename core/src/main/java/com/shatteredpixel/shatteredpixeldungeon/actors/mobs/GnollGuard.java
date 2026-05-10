@@ -113,7 +113,7 @@ public class GnollGuard extends Mob {
 
 	@Override
 	protected String specialAbilityInfo() {
-		return "Can hit up to 2 tiles away in open space; deals much less damage if you stand next to it.";
+		return Messages.get(this, "combat_special");
 	}
 
 	@Override

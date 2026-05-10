@@ -85,8 +85,8 @@ public class Guard extends Mob {
 	@Override
 	protected String specialAbilityInfo() {
 		return chainsUsed
-				? "Has already used its chain pull on this floor."
-				: "Can pull a distant target into melee range once, then cripples them briefly.";
+				? Messages.get(this, "combat_special_used")
+				: Messages.get(this, "combat_special");
 	}
 
 	private boolean chain(int target){

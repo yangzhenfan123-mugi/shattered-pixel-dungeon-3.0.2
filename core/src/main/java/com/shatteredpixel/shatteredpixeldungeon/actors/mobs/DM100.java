@@ -84,7 +84,7 @@ public class DM100 extends Mob implements Callback {
 
 	@Override
 	protected String specialAbilityInfo() {
-		return "Can zap targets in line of sight; its ranged lightning deals 3-10 damage.";
+		return Messages.get(this, "combat_special");
 	}
 	
 	@Override

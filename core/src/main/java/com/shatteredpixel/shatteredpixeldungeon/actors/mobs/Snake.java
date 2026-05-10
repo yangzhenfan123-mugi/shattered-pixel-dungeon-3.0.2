@@ -25,6 +25,7 @@ import com.shatteredpixel.shatteredpixeldungeon.Badges;
 import com.shatteredpixel.shatteredpixeldungeon.actors.Char;
 import com.shatteredpixel.shatteredpixeldungeon.items.Generator;
 import com.shatteredpixel.shatteredpixeldungeon.journal.Document;
+import com.shatteredpixel.shatteredpixeldungeon.messages.Messages;
 import com.shatteredpixel.shatteredpixeldungeon.scenes.GameScene;
 import com.shatteredpixel.shatteredpixeldungeon.sprites.SnakeSprite;
 import com.watabou.utils.Random;
@@ -66,7 +67,7 @@ public class Snake extends Mob {
 
 	@Override
 	protected String specialAbilityInfo() {
-		return "Very high evasion; surprise attacks and magical attacks are more reliable.";
+		return Messages.get(this, "combat_special");
 	}
 
 	private static int dodges = 0;
