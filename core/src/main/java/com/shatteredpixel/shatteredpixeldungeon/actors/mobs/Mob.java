@@ -1057,7 +1057,7 @@ public abstract class Mob extends Char {
 	public String info(){
 		String desc = description();
 
-		if (SPDSettings.mobCombatInfo()){
+		if (SPDSettings.mobCombatInfo() && Bestiary.encounterCount(getClass()) > 0){
 			desc += combatInfo();
 		}
 

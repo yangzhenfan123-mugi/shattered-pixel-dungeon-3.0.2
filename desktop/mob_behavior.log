@@ -2647,3 +2647,24 @@
 [2026-05-10 15:37:56.720] [TICK:12.00] [啮齿小鼠:11] [TARGET_ASSIGN] New target: 牧师
 [2026-05-10 15:37:56.721] [TICK:12.00] [啮齿小鼠:11] [ALERT] Mob became alerted.
 [2026-05-10 15:37:56.722] [TICK:12.00] [啮齿小鼠:11] [STATE_TRANSITION] Sleeping -> Hunting
+[2026-05-10 16:47:02.060] [TICK:30.00] [天狗:677] [ALERT] Mob became alerted.
+[2026-05-10 16:48:49.229] [TICK:0.00] [吸血蝙蝠:711] [SPAWN] Spawned at pos: 974
+[2026-05-10 16:48:49.230] [TICK:0.00] [店主:712] [SPAWN] Spawned at pos: 844
+[2026-05-10 16:48:49.230] [TICK:0.00] [吸血蝙蝠:713] [SPAWN] Spawned at pos: 896
+[2026-05-10 16:48:49.230] [TICK:0.00] [豺狼暴徒:714] [SPAWN] Spawned at pos: 1080
+[2026-05-10 16:48:49.230] [TICK:0.00] [吸血蝙蝠:715] [SPAWN] Spawned at pos: 1221
+[2026-05-10 16:48:49.230] [TICK:0.00] [金色蜜蜂:716] [SPAWN] Spawned at pos: 1341
+[2026-05-10 16:50:14.539] [TICK:0.00] [金色蜜蜂:716] [TARGET_ASSIGN] New target: 吸血蝙蝠
+[2026-05-10 16:52:43.155] [TICK:11.00] [金色蜜蜂:716] [TARGET_ASSIGN] New target: NONE
+[2026-05-10 16:52:50.287] [TICK:21.00] [豺狼萨满:733] [SPAWN] Spawned at pos: 1367
+[2026-05-10 16:52:50.485] [TICK:23.00] [金色蜜蜂:716] [TARGET_ASSIGN] New target: 狙击手
+[2026-05-10 16:52:52.143] [TICK:28.00] [金色蜜蜂:716] [TARGET_ASSIGN] New target: NONE
+[2026-05-10 16:52:53.717] [TICK:32.00] [金色蜜蜂:716] [TARGET_ASSIGN] New target: 狙击手
+[2026-05-10 16:52:54.236] [TICK:33.00] [金色蜜蜂:716] [TARGET_ASSIGN] New target: NONE
+[2026-05-10 16:53:02.786] [TICK:43.00] [吸血蝙蝠:713] [TARGET_ASSIGN] New target: 狙击手
+[2026-05-10 16:53:02.787] [TICK:43.00] [吸血蝙蝠:713] [ALERT] Mob became alerted.
+[2026-05-10 16:53:02.787] [TICK:43.00] [吸血蝙蝠:713] [STATE_TRANSITION] Sleeping -> Hunting
+[2026-05-10 16:53:18.587] [TICK:71.00] [豺狼萨满:739] [SPAWN] Spawned at pos: 337
+[2026-05-10 16:56:28.770] [TICK:10.00] [豺狼暴徒:756] [SPAWN] Spawned at pos: 1223
+[2026-05-10 16:56:30.110] [TICK:13.00] [金色蜜蜂:716] [TARGET_ASSIGN] New target: 豺狼暴徒
+[2026-05-10 16:56:33.340] [TICK:14.00] [金色蜜蜂:716] [TARGET_ASSIGN] New target: NONE
